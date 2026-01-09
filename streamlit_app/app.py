@@ -27,7 +27,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# 2. LOAD DATA
+# 2. LOAD DATA (FIXED VERSION)
 @st.cache_data
 def load_data():
     base_paths = ["data", "../data", "./"]
@@ -43,10 +43,22 @@ def load_data():
         df_e = pd.read_csv(os.path.join(data_dir, "user_events_flat.csv"))
         df_u = pd.read_csv(os.path.join(data_dir, "user_acquisition.csv"))
 
-        # --- FIX QUAN TRỌNG: normalize() để đưa về 00:00:00 ---
-        # Giúp phép trừ ngày tháng chính xác, tránh ra kết quả -1 ngày
-        df_e['event_date'] = pd.to_datetime(df_e['event_date'], errors='coerce').dt.normalize()
-        df_u['install_date'] = pd.to_datetime(df_u['install_date'], errors='coerce').dt.normalize()
+        # --- FIX BUG QUAN TRỌNG: DATE PARSING ---
+        # Cột event_date trong CSV là số (ví dụ: 20251101).
+        # Nếu không ép về string (.astype(str)), Pandas sẽ hiểu là mili-giây từ năm 1970 -> Sai ngày.
+        
+        # 1. Convert Event Date (Format: YYYYMMDD -> YYYY-MM-DD)
+        df_e['event_date'] = pd.to_datetime(
+            df_e['event_date'].astype(str), 
+            format='%Y%m%d', 
+            errors='coerce'
+        ).dt.normalize()
+        
+        # 2. Convert Install Date (Format: YYYY-MM-DD -> YYYY-MM-DD)
+        df_u['install_date'] = pd.to_datetime(
+            df_u['install_date'], 
+            errors='coerce'
+        ).dt.normalize()
         
         return df_e, df_u
     except Exception as e:
@@ -97,7 +109,7 @@ with tab1:
     # Tính khoảng cách ngày
     cohort_data['days_since_install'] = (cohort_data['event_date'] - cohort_data['install_date']).dt.days
     
-    # --- FIX AN TOÀN: Lọc bỏ ngày âm (nếu có sai lệch múi giờ) ---
+    # Lọc bỏ ngày âm (đề phòng sai lệch nhỏ về giờ giấc)
     cohort_data = cohort_data[cohort_data['days_since_install'] >= 0]
     
     # Group & Pivot
@@ -126,7 +138,9 @@ with tab1:
             )
             st.plotly_chart(fig_ret, use_container_width=True)
     else:
-        st.warning("⚠️ Không tìm thấy dữ liệu Day 0. Vui lòng kiểm tra lại data.")
+        st.warning("⚠️ Không tìm thấy dữ liệu Day 0. Đang kiểm tra dữ liệu...")
+        st.write("Preview dữ liệu sai lệch (nếu có):")
+        st.write(cohort_data.head())
 
     # --- B. FORECASTING CHART (POWER LAW) ---
     st.markdown("---")
