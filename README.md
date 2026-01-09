@@ -21,11 +21,11 @@ Dự án được thiết kế để giải quyết các bài toán cốt lõi c
 Hệ thống được thiết kế theo luồng dữ liệu chuẩn doanh nghiệp (ELT Pipeline):
 
 ```mermaid
-    A[Data Simulation] -->|JSON/CSV| B(BigQuery Warehouse)
-    B -->|SQL Transformations| C{Analytics Engine}
-    C -->|Real-time KPIs| D[Streamlit Dashboard]
-    C -->|Deep Dive| E[Tableau Dashboard]
-
+graph LR
+    A[Data Simulation<br/>Python/Faker] -->|JSON/CSV| B(BigQuery Warehouse<br/>Raw Layer)
+    B -->|SQL Transformations<br/>UNNEST/Window Func| C{Analytics Marts<br/>Gold Layer}
+    C -->|Real-time KPIs| D[Streamlit App<br/>LiveOps Tool]
+    C -->|Deep Dive Analysis| E[Tableau Dashboard<br/>BI Reporting]
 ```
 
 ### Technologies Used
