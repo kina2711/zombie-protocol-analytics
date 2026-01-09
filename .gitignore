@@ -1,0 +1,17 @@
+# Python garbage
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Data files (GitHub giới hạn 100MB, nên ignore file CSV nặng)
+data/*.csv
+data/*.json
+data/*.parquet
+
+# Mac OS garbage
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
