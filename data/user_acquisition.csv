@@ -1,0 +1,2001 @@
+user_id,install_date,source,country,tier,device_type,cpi
+6790f5d6,2025-11-03,Organic,VN,Tier 3,iOS,0.0
+2da9cb4d,2025-11-26,Google Ads,VN,Tier 3,Android,0.22
+26f794ed,2025-10-09,Organic,US,Tier 1,iOS,0.0
+8c0b7d4d,2025-10-15,Facebook Ads,KR,Tier 2,iOS,2.32
+0a1e6387,2025-11-02,Google Ads,BR,Tier 3,iOS,0.52
+453c63e6,2025-10-29,Unity Ads,BR,Tier 3,Android,0.23
+a0f37894,2025-10-29,Unity Ads,VN,Tier 3,iOS,0.4
+5f0eda30,2025-11-20,Unity Ads,CA,Tier 1,iOS,3.06
+3fbb8a94,2025-11-12,Unity Ads,KR,Tier 2,iOS,1.35
+7848f6cf,2025-11-13,Google Ads,IN,Tier 3,iOS,0.43
+1df4e543,2025-10-15,Unity Ads,DE,Tier 2,iOS,2.17
+3c839b33,2025-11-14,Organic,IN,Tier 3,Android,0.0
+d54afd4d,2025-11-16,Organic,UK,Tier 1,Android,0.0
+337e38f5,2025-10-21,Google Ads,FR,Tier 2,Android,1.18
+0431f09a,2025-11-18,Facebook Ads,DE,Tier 2,iOS,1.95
+53c019ae,2025-11-08,Unity Ads,IN,Tier 3,Android,0.19
+e082c7d7,2025-10-27,Unity Ads,BR,Tier 3,iOS,0.14
+5a4fd2ae,2025-11-24,Organic,FR,Tier 2,iOS,0.0
+3717c792,2025-11-29,Facebook Ads,AU,Tier 1,iOS,4.75
+66c40ca5,2025-10-31,Organic,PH,Tier 3,iOS,0.0
+1b93da12,2025-10-23,Unity Ads,US,Tier 1,Android,4.4
+126317c6,2025-10-26,Facebook Ads,VN,Tier 3,iOS,0.37
+2b8f8eae,2025-10-14,Facebook Ads,AU,Tier 1,Android,4.78
+c8e2dccd,2025-10-26,Unity Ads,BR,Tier 3,Android,0.23
+fa880377,2025-10-13,Google Ads,UK,Tier 1,Android,4.85
+3b3e06a0,2025-10-04,Organic,BR,Tier 3,iOS,0.0
+c211b44d,2025-10-25,Organic,BR,Tier 3,Android,0.0
+6e63af5c,2025-11-06,Facebook Ads,FR,Tier 2,Android,1.33
+e649362f,2025-10-31,Facebook Ads,VN,Tier 3,Android,0.38
+36664305,2025-10-06,Facebook Ads,KR,Tier 2,iOS,1.19
+e461d8a5,2025-11-11,Organic,JP,Tier 2,iOS,0.0
+93ea6630,2025-11-23,Organic,IN,Tier 3,iOS,0.0
+bee4f098,2025-11-06,Google Ads,FR,Tier 2,iOS,1.16
+ec4371e3,2025-11-19,Organic,UK,Tier 1,iOS,0.0
+dc901291,2025-10-19,Organic,KR,Tier 2,Android,0.0
+da4c4311,2025-10-24,Facebook Ads,KR,Tier 2,iOS,1.44
+a07ac1f2,2025-10-10,Google Ads,IN,Tier 3,iOS,0.21
+a2513b45,2025-10-20,Organic,AU,Tier 1,iOS,0.0
+19e37bdd,2025-11-20,Google Ads,IN,Tier 3,Android,0.7
+86c1e7ce,2025-11-18,Facebook Ads,VN,Tier 3,Android,0.66
+24f8bf94,2025-11-18,Google Ads,VN,Tier 3,Android,0.78
+e7c67e8c,2025-10-23,Facebook Ads,CA,Tier 1,Android,2.77
+ee741801,2025-10-10,Facebook Ads,IN,Tier 3,Android,0.43
+6a7f1962,2025-10-22,Unity Ads,AU,Tier 1,Android,2.84
+ed7427d1,2025-11-13,Unity Ads,US,Tier 1,Android,3.26
+5958a65d,2025-10-19,Unity Ads,UK,Tier 1,iOS,3.93
+5521fb02,2025-10-08,Facebook Ads,JP,Tier 2,iOS,1.98
+bd6a1be1,2025-10-16,Organic,FR,Tier 2,Android,0.0
+fa886f80,2025-10-07,Unity Ads,BR,Tier 3,Android,0.1
+39c90baa,2025-10-08,Facebook Ads,JP,Tier 2,Android,1.2
+aa7d6477,2025-10-31,Unity Ads,CA,Tier 1,Android,3.39
+79f52fd7,2025-11-22,Organic,JP,Tier 2,Android,0.0
+afe49fa6,2025-10-20,Facebook Ads,US,Tier 1,Android,3.89
+2ea1b23b,2025-11-26,Facebook Ads,JP,Tier 2,iOS,1.17
+cb1ed8ba,2025-10-09,Organic,KR,Tier 2,Android,0.0
+c9b10276,2025-10-08,Facebook Ads,KR,Tier 2,iOS,2.16
+2b4e5cb6,2025-11-12,Google Ads,FR,Tier 2,iOS,1.91
+0132fa86,2025-10-08,Google Ads,BR,Tier 3,iOS,0.7
+39aec987,2025-10-06,Unity Ads,VN,Tier 3,Android,0.12
+ec7a69d8,2025-10-26,Unity Ads,JP,Tier 2,Android,2.41
+ccf15000,2025-10-11,Unity Ads,US,Tier 1,Android,3.9
+33ef52c3,2025-10-26,Organic,VN,Tier 3,Android,0.0
+24fd0df6,2025-10-26,Google Ads,BR,Tier 3,Android,0.29
+9d3fd288,2025-10-13,Google Ads,VN,Tier 3,Android,0.52
+5c5887d9,2025-10-18,Facebook Ads,PH,Tier 3,Android,0.12
+cbd40d09,2025-10-05,Unity Ads,JP,Tier 2,iOS,2.12
+9fd7ace6,2025-11-03,Google Ads,DE,Tier 2,iOS,2.42
+0aeb840c,2025-10-24,Google Ads,JP,Tier 2,iOS,1.25
+d13f24a9,2025-10-05,Unity Ads,VN,Tier 3,Android,0.16
+5db3388f,2025-10-26,Organic,VN,Tier 3,iOS,0.0
+01924860,2025-10-21,Google Ads,UK,Tier 1,iOS,3.87
+0cd348ab,2025-11-06,Organic,JP,Tier 2,Android,0.0
+cd357d23,2025-10-24,Organic,BR,Tier 3,Android,0.0
+a4634cb0,2025-11-19,Organic,KR,Tier 2,Android,0.0
+4af9644b,2025-11-17,Unity Ads,PH,Tier 3,iOS,0.38
+3338781e,2025-11-27,Facebook Ads,IN,Tier 3,iOS,0.62
+58ae45ce,2025-10-03,Facebook Ads,FR,Tier 2,Android,2.27
+352966cd,2025-10-08,Unity Ads,KR,Tier 2,iOS,2.16
+fd4bda3e,2025-11-15,Facebook Ads,IN,Tier 3,iOS,0.7
+a3eb4cd5,2025-10-27,Organic,US,Tier 1,Android,0.0
+430974c2,2025-11-22,Facebook Ads,VN,Tier 3,Android,0.35
+4e8995ab,2025-11-01,Facebook Ads,BR,Tier 3,Android,0.23
+0daeec77,2025-11-24,Google Ads,AU,Tier 1,iOS,3.41
+2a725b1f,2025-11-06,Unity Ads,JP,Tier 2,iOS,2.28
+591ac4ab,2025-10-26,Google Ads,BR,Tier 3,Android,0.64
+32ab85e9,2025-10-14,Organic,CA,Tier 1,iOS,0.0
+3f10af26,2025-11-28,Unity Ads,BR,Tier 3,iOS,0.56
+b6264357,2025-10-24,Organic,US,Tier 1,Android,0.0
+3ce1db25,2025-11-24,Organic,FR,Tier 2,iOS,0.0
+b29c0616,2025-11-02,Unity Ads,IN,Tier 3,Android,0.44
+a723eba0,2025-10-25,Organic,VN,Tier 3,iOS,0.0
+2b2d97c8,2025-10-22,Unity Ads,FR,Tier 2,Android,1.18
+c10e021d,2025-10-08,Unity Ads,IN,Tier 3,Android,0.23
+4349681f,2025-11-07,Google Ads,VN,Tier 3,iOS,0.39
+40ef8caf,2025-10-22,Facebook Ads,AU,Tier 1,Android,4.64
+1f567bc4,2025-10-18,Google Ads,JP,Tier 2,Android,2.27
+8f6c3902,2025-10-11,Facebook Ads,KR,Tier 2,iOS,1.35
+55bfa8db,2025-10-03,Facebook Ads,BR,Tier 3,iOS,0.46
+a6d82c59,2025-10-15,Google Ads,VN,Tier 3,iOS,0.69
+4ed3615c,2025-10-17,Organic,PH,Tier 3,iOS,0.0
+05373a99,2025-10-06,Unity Ads,DE,Tier 2,iOS,2.09
+ca626c80,2025-11-23,Organic,BR,Tier 3,iOS,0.0
+3c667f6f,2025-11-05,Facebook Ads,IN,Tier 3,Android,0.79
+b18afbfa,2025-10-15,Unity Ads,BR,Tier 3,Android,0.37
+41ea779e,2025-11-11,Google Ads,BR,Tier 3,Android,0.8
+b8d143a1,2025-11-27,Facebook Ads,JP,Tier 2,Android,1.5
+45f55e86,2025-11-13,Unity Ads,PH,Tier 3,Android,0.4
+fc9657c6,2025-10-01,Facebook Ads,FR,Tier 2,iOS,1.06
+9dd278fc,2025-10-27,Unity Ads,VN,Tier 3,iOS,0.16
+f45862a1,2025-10-15,Organic,US,Tier 1,iOS,0.0
+e997f84f,2025-11-15,Facebook Ads,AU,Tier 1,iOS,4.14
+6890675f,2025-11-22,Unity Ads,UK,Tier 1,Android,3.95
+11315758,2025-11-10,Organic,AU,Tier 1,Android,0.0
+d6305b0a,2025-11-20,Facebook Ads,KR,Tier 2,iOS,1.91
+78aff852,2025-10-16,Unity Ads,IN,Tier 3,iOS,0.57
+52d1cc6a,2025-10-25,Google Ads,KR,Tier 2,Android,1.96
+d00ebd50,2025-11-27,Google Ads,AU,Tier 1,Android,2.72
+7330b063,2025-11-04,Organic,IN,Tier 3,iOS,0.0
+02f8be6a,2025-10-04,Google Ads,IN,Tier 3,iOS,0.13
+d2692b0a,2025-11-13,Organic,US,Tier 1,Android,0.0
+fe6b539b,2025-11-29,Unity Ads,PH,Tier 3,Android,0.75
+6bd4f9ff,2025-11-14,Google Ads,AU,Tier 1,iOS,3.83
+3e36cc13,2025-11-22,Organic,PH,Tier 3,Android,0.0
+905432cc,2025-10-08,Facebook Ads,DE,Tier 2,Android,2.33
+33769fd1,2025-10-16,Facebook Ads,IN,Tier 3,Android,0.58
+3db2190e,2025-10-24,Organic,CA,Tier 1,iOS,0.0
+55349f31,2025-11-11,Facebook Ads,JP,Tier 2,Android,1.62
+8ab11411,2025-10-09,Facebook Ads,VN,Tier 3,iOS,0.38
+3f63b805,2025-11-03,Facebook Ads,US,Tier 1,Android,4.41
+d317c473,2025-10-27,Facebook Ads,JP,Tier 2,iOS,1.17
+d8c828d7,2025-11-26,Facebook Ads,PH,Tier 3,Android,0.14
+eef97e4a,2025-10-09,Unity Ads,PH,Tier 3,iOS,0.79
+3ef5a232,2025-11-28,Facebook Ads,BR,Tier 3,Android,0.61
+9f160bf4,2025-11-07,Organic,JP,Tier 2,iOS,0.0
+cb71e413,2025-11-10,Organic,BR,Tier 3,iOS,0.0
+88133a36,2025-11-02,Organic,DE,Tier 2,iOS,0.0
+5b2cdbb0,2025-11-21,Facebook Ads,AU,Tier 1,Android,3.12
+33e5b1ca,2025-10-31,Facebook Ads,UK,Tier 1,iOS,3.96
+3992c550,2025-10-04,Facebook Ads,VN,Tier 3,Android,0.22
+8b080734,2025-11-10,Unity Ads,PH,Tier 3,Android,0.65
+2ec35218,2025-11-29,Organic,PH,Tier 3,iOS,0.0
+20d86755,2025-10-13,Unity Ads,BR,Tier 3,Android,0.54
+acbeebf3,2025-11-28,Facebook Ads,PH,Tier 3,Android,0.69
+d5ebe9f9,2025-11-21,Organic,US,Tier 1,Android,0.0
+08d0b952,2025-10-15,Unity Ads,PH,Tier 3,Android,0.13
+ce728f52,2025-11-22,Unity Ads,KR,Tier 2,iOS,1.59
+c5c9a492,2025-11-20,Facebook Ads,PH,Tier 3,Android,0.71
+a7d36802,2025-10-13,Unity Ads,PH,Tier 3,iOS,0.19
+8112b72d,2025-11-12,Organic,IN,Tier 3,iOS,0.0
+def46414,2025-11-21,Organic,DE,Tier 2,iOS,0.0
+e19ec290,2025-10-22,Unity Ads,KR,Tier 2,iOS,1.15
+455f2542,2025-11-13,Facebook Ads,FR,Tier 2,Android,1.51
+57ae3b46,2025-11-05,Google Ads,AU,Tier 1,Android,3.25
+180e616e,2025-11-28,Google Ads,PH,Tier 3,iOS,0.45
+57f9022c,2025-11-15,Google Ads,PH,Tier 3,Android,0.52
+f2312a25,2025-10-15,Facebook Ads,PH,Tier 3,iOS,0.64
+1acc1c29,2025-11-14,Facebook Ads,IN,Tier 3,iOS,0.58
+b1acda3c,2025-10-10,Organic,BR,Tier 3,iOS,0.0
+2b23fff7,2025-11-24,Facebook Ads,VN,Tier 3,iOS,0.44
+ba2f54da,2025-11-21,Google Ads,DE,Tier 2,iOS,2.24
+7ec5b1e4,2025-10-26,Unity Ads,JP,Tier 2,iOS,1.98
+c9e37ed7,2025-11-15,Facebook Ads,PH,Tier 3,Android,0.12
+7307f6ff,2025-10-01,Unity Ads,UK,Tier 1,Android,3.73
+8aaa2717,2025-11-20,Organic,UK,Tier 1,Android,0.0
+d98254fa,2025-10-05,Unity Ads,BR,Tier 3,iOS,0.35
+50adcd58,2025-11-15,Organic,IN,Tier 3,Android,0.0
+64178dd5,2025-10-30,Unity Ads,UK,Tier 1,iOS,3.71
+8b8a2686,2025-11-03,Google Ads,AU,Tier 1,iOS,3.04
+371fd32f,2025-11-23,Facebook Ads,JP,Tier 2,iOS,2.15
+37098966,2025-11-04,Google Ads,PH,Tier 3,Android,0.78
+054ffef9,2025-11-28,Organic,UK,Tier 1,Android,0.0
+600bde8d,2025-11-10,Unity Ads,VN,Tier 3,iOS,0.71
+46355848,2025-10-02,Unity Ads,BR,Tier 3,Android,0.6
+05529ff1,2025-10-21,Organic,BR,Tier 3,iOS,0.0
+43149dd8,2025-11-03,Organic,DE,Tier 2,Android,0.0
+b71c6bd3,2025-10-22,Unity Ads,VN,Tier 3,Android,0.54
+3e28f6e3,2025-10-27,Organic,BR,Tier 3,iOS,0.0
+e4847a97,2025-11-22,Organic,BR,Tier 3,Android,0.0
+750fc56e,2025-11-03,Facebook Ads,PH,Tier 3,Android,0.55
+c6f76c9a,2025-10-15,Unity Ads,PH,Tier 3,Android,0.64
+fcc55b5c,2025-10-25,Organic,PH,Tier 3,iOS,0.0
+7ba5f1ed,2025-11-18,Facebook Ads,KR,Tier 2,Android,1.39
+72f74eb3,2025-10-27,Unity Ads,KR,Tier 2,iOS,1.83
+33355d22,2025-10-18,Unity Ads,US,Tier 1,Android,4.54
+6617efb8,2025-10-29,Organic,AU,Tier 1,iOS,0.0
+15c9813e,2025-11-18,Organic,PH,Tier 3,iOS,0.0
+0ae3d3b5,2025-11-21,Facebook Ads,PH,Tier 3,Android,0.63
+3f4eb01e,2025-10-16,Organic,KR,Tier 2,iOS,0.0
+87e9b8e8,2025-10-16,Unity Ads,BR,Tier 3,Android,0.47
+79ac6d09,2025-11-23,Facebook Ads,IN,Tier 3,Android,0.39
+1a28f795,2025-11-11,Facebook Ads,PH,Tier 3,iOS,0.52
+5e8e4734,2025-10-02,Facebook Ads,IN,Tier 3,iOS,0.41
+0ec1e347,2025-11-23,Organic,AU,Tier 1,Android,0.0
+404301bb,2025-10-27,Facebook Ads,UK,Tier 1,iOS,4.95
+42144f99,2025-10-29,Google Ads,CA,Tier 1,iOS,3.05
+55f30f17,2025-10-05,Unity Ads,FR,Tier 2,Android,1.99
+961469e4,2025-11-14,Google Ads,KR,Tier 2,Android,1.51
+97844e18,2025-11-22,Organic,IN,Tier 3,iOS,0.0
+7d9abb0c,2025-10-22,Facebook Ads,KR,Tier 2,iOS,2.0
+c238fb0a,2025-10-21,Facebook Ads,PH,Tier 3,Android,0.66
+53ff8e2f,2025-10-02,Facebook Ads,VN,Tier 3,iOS,0.35
+126fa3bf,2025-10-12,Google Ads,PH,Tier 3,Android,0.4
+a0a3b132,2025-10-15,Google Ads,AU,Tier 1,Android,3.54
+88e74d10,2025-10-25,Google Ads,BR,Tier 3,Android,0.68
+428d95f2,2025-10-31,Google Ads,PH,Tier 3,Android,0.28
+db8ee7bd,2025-11-28,Organic,DE,Tier 2,Android,0.0
+172e377b,2025-10-07,Facebook Ads,FR,Tier 2,iOS,1.41
+f70c8b90,2025-10-15,Facebook Ads,US,Tier 1,iOS,4.32
+a26927d0,2025-10-15,Unity Ads,PH,Tier 3,Android,0.4
+3d7aaa83,2025-11-24,Unity Ads,CA,Tier 1,Android,2.52
+c3599bb0,2025-11-10,Unity Ads,KR,Tier 2,iOS,1.85
+cfc1f249,2025-11-16,Facebook Ads,IN,Tier 3,iOS,0.67
+8b6e09cb,2025-11-24,Facebook Ads,PH,Tier 3,iOS,0.46
+7a4debc9,2025-10-15,Unity Ads,BR,Tier 3,Android,0.48
+fa02bcdc,2025-10-10,Organic,US,Tier 1,iOS,0.0
+6f66e59f,2025-11-07,Unity Ads,PH,Tier 3,Android,0.53
+474e9eba,2025-11-06,Facebook Ads,VN,Tier 3,Android,0.37
+9ca96716,2025-11-06,Google Ads,PH,Tier 3,Android,0.37
+906317b0,2025-10-18,Unity Ads,FR,Tier 2,Android,2.3
+1e2d040f,2025-10-22,Organic,PH,Tier 3,iOS,0.0
+4be10597,2025-11-14,Organic,CA,Tier 1,iOS,0.0
+b26631a2,2025-11-08,Google Ads,UK,Tier 1,Android,3.92
+6140378a,2025-11-17,Organic,CA,Tier 1,Android,0.0
+29c5397f,2025-10-07,Facebook Ads,KR,Tier 2,Android,2.05
+dac64749,2025-11-06,Unity Ads,FR,Tier 2,Android,2.13
+72d1dd32,2025-10-07,Facebook Ads,PH,Tier 3,iOS,0.39
+6a87804b,2025-11-17,Unity Ads,IN,Tier 3,iOS,0.55
+915596d1,2025-11-14,Organic,PH,Tier 3,iOS,0.0
+aa7d2ddd,2025-11-26,Google Ads,VN,Tier 3,iOS,0.29
+c058e06a,2025-11-22,Organic,DE,Tier 2,Android,0.0
+93f21b6d,2025-10-10,Google Ads,BR,Tier 3,iOS,0.34
+2e8b41b3,2025-11-22,Facebook Ads,IN,Tier 3,iOS,0.23
+898740a4,2025-10-03,Unity Ads,FR,Tier 2,Android,2.17
+aaca3cd2,2025-10-20,Organic,VN,Tier 3,Android,0.0
+efed831a,2025-11-12,Google Ads,PH,Tier 3,iOS,0.2
+89b53cb5,2025-11-27,Google Ads,VN,Tier 3,iOS,0.32
+f2eee1a9,2025-11-02,Google Ads,JP,Tier 2,iOS,2.35
+384f5662,2025-10-26,Facebook Ads,VN,Tier 3,Android,0.3
+fd785495,2025-11-27,Facebook Ads,AU,Tier 1,Android,4.52
+3943b592,2025-10-03,Organic,PH,Tier 3,Android,0.0
+23d2d82e,2025-10-24,Facebook Ads,VN,Tier 3,Android,0.43
+cf31421e,2025-10-09,Organic,IN,Tier 3,Android,0.0
+754e4fb3,2025-10-18,Google Ads,CA,Tier 1,iOS,4.8
+675334d5,2025-10-25,Google Ads,JP,Tier 2,Android,1.7
+bee525d3,2025-10-15,Unity Ads,JP,Tier 2,Android,1.96
+13938afe,2025-10-03,Unity Ads,US,Tier 1,iOS,2.97
+1aedae2c,2025-11-06,Google Ads,UK,Tier 1,iOS,3.39
+efc42483,2025-10-01,Organic,BR,Tier 3,Android,0.0
+01269b81,2025-11-04,Google Ads,IN,Tier 3,Android,0.33
+f8ff16f7,2025-10-01,Facebook Ads,CA,Tier 1,iOS,4.23
+92d4b8f2,2025-11-11,Organic,DE,Tier 2,Android,0.0
+cf887901,2025-10-09,Google Ads,PH,Tier 3,iOS,0.41
+1450a60e,2025-11-17,Google Ads,IN,Tier 3,iOS,0.39
+5fa38886,2025-11-19,Facebook Ads,VN,Tier 3,iOS,0.26
+d2426dc2,2025-10-29,Organic,KR,Tier 2,iOS,0.0
+540f84dd,2025-10-14,Facebook Ads,BR,Tier 3,Android,0.47
+3f97a8f1,2025-11-08,Facebook Ads,VN,Tier 3,Android,0.42
+89e179ba,2025-10-31,Google Ads,IN,Tier 3,Android,0.72
+125f7f2f,2025-10-25,Google Ads,FR,Tier 2,Android,1.09
+b65325aa,2025-10-06,Organic,PH,Tier 3,iOS,0.0
+8651d749,2025-11-20,Google Ads,VN,Tier 3,iOS,0.6
+b1ca4ab2,2025-10-09,Facebook Ads,FR,Tier 2,iOS,1.69
+d2790cd8,2025-10-05,Google Ads,AU,Tier 1,Android,4.61
+98a193c2,2025-10-11,Organic,BR,Tier 3,Android,0.0
+af4163ea,2025-10-20,Unity Ads,JP,Tier 2,Android,1.79
+61d20d52,2025-11-21,Unity Ads,UK,Tier 1,iOS,4.71
+77758942,2025-10-09,Google Ads,CA,Tier 1,iOS,3.05
+58c32935,2025-11-29,Unity Ads,BR,Tier 3,iOS,0.28
+7109d516,2025-10-10,Google Ads,BR,Tier 3,iOS,0.36
+48b5088f,2025-10-06,Unity Ads,UK,Tier 1,iOS,4.16
+15c862e2,2025-10-29,Facebook Ads,DE,Tier 2,iOS,1.8
+1a8a8433,2025-10-28,Facebook Ads,VN,Tier 3,iOS,0.45
+502147eb,2025-11-24,Google Ads,FR,Tier 2,Android,1.59
+90bf5887,2025-11-03,Organic,BR,Tier 3,Android,0.0
+c9d8960c,2025-10-02,Google Ads,US,Tier 1,iOS,2.8
+f6ebd2f7,2025-10-10,Organic,US,Tier 1,Android,0.0
+a708c784,2025-11-15,Unity Ads,JP,Tier 2,iOS,1.76
+ed433e42,2025-10-27,Organic,FR,Tier 2,Android,0.0
+2cb153c2,2025-10-09,Unity Ads,DE,Tier 2,Android,1.96
+98c33998,2025-10-22,Facebook Ads,UK,Tier 1,iOS,4.11
+e26e85bc,2025-11-12,Unity Ads,BR,Tier 3,Android,0.61
+a8f8c7ff,2025-11-23,Facebook Ads,DE,Tier 2,iOS,1.22
+7213c482,2025-10-20,Organic,DE,Tier 2,iOS,0.0
+770c0c59,2025-11-03,Organic,VN,Tier 3,Android,0.0
+087a1611,2025-10-26,Unity Ads,VN,Tier 3,Android,0.39
+dba8fcb8,2025-11-08,Google Ads,KR,Tier 2,Android,2.05
+18c369c4,2025-10-31,Organic,PH,Tier 3,iOS,0.0
+6638380d,2025-10-08,Organic,IN,Tier 3,iOS,0.0
+feaa3efc,2025-10-06,Organic,US,Tier 1,Android,0.0
+fe1bd4a6,2025-10-12,Organic,DE,Tier 2,Android,0.0
+dd52f0d2,2025-11-12,Facebook Ads,CA,Tier 1,Android,3.72
+b675c79f,2025-10-12,Facebook Ads,UK,Tier 1,iOS,3.58
+942594dc,2025-11-14,Organic,JP,Tier 2,iOS,0.0
+ef6d35a3,2025-11-17,Facebook Ads,AU,Tier 1,iOS,4.8
+5a05cd0a,2025-10-08,Google Ads,FR,Tier 2,iOS,1.76
+41b11d59,2025-10-27,Facebook Ads,PH,Tier 3,iOS,0.29
+56715056,2025-11-22,Facebook Ads,PH,Tier 3,iOS,0.43
+6ee08d0c,2025-11-14,Unity Ads,UK,Tier 1,iOS,3.09
+949a9a90,2025-10-03,Organic,DE,Tier 2,iOS,0.0
+a2f4276e,2025-10-21,Facebook Ads,IN,Tier 3,iOS,0.12
+7895f90b,2025-11-02,Unity Ads,JP,Tier 2,iOS,1.14
+ac6cdf60,2025-10-31,Organic,IN,Tier 3,Android,0.0
+7a6787a0,2025-10-01,Organic,VN,Tier 3,iOS,0.0
+ef42d186,2025-10-04,Facebook Ads,IN,Tier 3,Android,0.15
+742b4599,2025-10-18,Organic,VN,Tier 3,Android,0.0
+e41fb3d6,2025-11-07,Unity Ads,AU,Tier 1,Android,4.08
+774f1c4b,2025-10-18,Unity Ads,IN,Tier 3,Android,0.75
+8ce43927,2025-11-27,Facebook Ads,PH,Tier 3,iOS,0.18
+b1a68a2b,2025-10-22,Unity Ads,BR,Tier 3,Android,0.73
+801d368f,2025-10-05,Google Ads,UK,Tier 1,iOS,4.75
+6ddf74d7,2025-11-28,Google Ads,DE,Tier 2,Android,2.06
+25fcd207,2025-11-07,Organic,JP,Tier 2,Android,0.0
+16212a05,2025-11-19,Organic,CA,Tier 1,Android,0.0
+8de5249c,2025-10-25,Google Ads,UK,Tier 1,iOS,3.1
+9eb17053,2025-11-27,Unity Ads,IN,Tier 3,Android,0.69
+40343058,2025-11-06,Unity Ads,US,Tier 1,iOS,3.06
+12cfb9dc,2025-10-28,Unity Ads,PH,Tier 3,Android,0.25
+0f2fe72d,2025-10-05,Unity Ads,JP,Tier 2,Android,1.71
+f4db1f4e,2025-11-14,Organic,IN,Tier 3,Android,0.0
+a1658725,2025-10-29,Facebook Ads,US,Tier 1,Android,4.64
+6fc80473,2025-10-23,Google Ads,KR,Tier 2,iOS,2.24
+beb1a71a,2025-10-26,Facebook Ads,UK,Tier 1,iOS,4.94
+e9e5ae03,2025-11-08,Unity Ads,AU,Tier 1,iOS,2.74
+86ec5978,2025-10-21,Organic,FR,Tier 2,Android,0.0
+beb379f0,2025-11-07,Google Ads,US,Tier 1,iOS,4.68
+6d9f5568,2025-10-30,Organic,DE,Tier 2,Android,0.0
+1591e9ba,2025-10-10,Facebook Ads,PH,Tier 3,Android,0.3
+c3c2220c,2025-11-25,Facebook Ads,PH,Tier 3,iOS,0.62
+b56f976c,2025-10-03,Unity Ads,AU,Tier 1,Android,2.99
+0e6664a2,2025-11-09,Unity Ads,IN,Tier 3,Android,0.54
+d9cbe013,2025-11-28,Unity Ads,IN,Tier 3,iOS,0.75
+9cfae5e8,2025-11-06,Organic,JP,Tier 2,Android,0.0
+8dd79b28,2025-10-01,Google Ads,VN,Tier 3,Android,0.2
+cc1e4f39,2025-11-28,Google Ads,PH,Tier 3,Android,0.72
+6c2156af,2025-10-02,Organic,VN,Tier 3,Android,0.0
+494d95c4,2025-11-22,Organic,US,Tier 1,iOS,0.0
+746d7ae0,2025-11-27,Unity Ads,KR,Tier 2,Android,2.43
+419b076d,2025-11-23,Unity Ads,PH,Tier 3,Android,0.68
+01bf0541,2025-10-05,Unity Ads,JP,Tier 2,Android,1.78
+f2ee5ec8,2025-11-05,Google Ads,BR,Tier 3,Android,0.5
+ceabfcbc,2025-10-10,Google Ads,UK,Tier 1,iOS,3.37
+1b65acb6,2025-10-12,Google Ads,DE,Tier 2,iOS,2.0
+6261a9c7,2025-11-06,Google Ads,BR,Tier 3,Android,0.58
+f51f69e1,2025-10-23,Unity Ads,IN,Tier 3,iOS,0.53
+fb2d876a,2025-10-20,Unity Ads,PH,Tier 3,iOS,0.45
+03b7209a,2025-11-03,Google Ads,KR,Tier 2,iOS,2.38
+7063a17c,2025-11-28,Organic,DE,Tier 2,Android,0.0
+e419296f,2025-11-26,Organic,VN,Tier 3,iOS,0.0
+f0f3857a,2025-10-06,Google Ads,PH,Tier 3,Android,0.48
+c4afd6e8,2025-11-26,Google Ads,BR,Tier 3,Android,0.68
+f7d83f7b,2025-10-18,Google Ads,VN,Tier 3,iOS,0.54
+8026cda6,2025-10-27,Google Ads,CA,Tier 1,iOS,3.35
+8fd36738,2025-10-25,Google Ads,DE,Tier 2,iOS,2.11
+59dc09f6,2025-11-22,Unity Ads,KR,Tier 2,Android,1.72
+ca5c4c70,2025-11-22,Organic,DE,Tier 2,iOS,0.0
+2bd9fdef,2025-11-13,Organic,BR,Tier 3,iOS,0.0
+b02a59b9,2025-11-11,Unity Ads,BR,Tier 3,iOS,0.14
+d6730501,2025-10-19,Organic,CA,Tier 1,Android,0.0
+76594c1b,2025-10-11,Unity Ads,FR,Tier 2,Android,2.12
+71dcf833,2025-11-29,Unity Ads,IN,Tier 3,iOS,0.65
+9b4f6d09,2025-11-09,Organic,BR,Tier 3,Android,0.0
+510a0241,2025-10-08,Organic,CA,Tier 1,iOS,0.0
+b82ab56a,2025-11-05,Organic,DE,Tier 2,Android,0.0
+5a51c987,2025-10-02,Facebook Ads,IN,Tier 3,Android,0.3
+b7c6ab70,2025-10-19,Facebook Ads,PH,Tier 3,Android,0.56
+905276b0,2025-11-15,Google Ads,UK,Tier 1,iOS,4.17
+4469d66a,2025-10-25,Google Ads,DE,Tier 2,Android,2.16
+9a9ff2b2,2025-10-16,Google Ads,PH,Tier 3,iOS,0.57
+19d00c30,2025-10-26,Unity Ads,PH,Tier 3,Android,0.43
+56a9bcfc,2025-11-07,Facebook Ads,DE,Tier 2,iOS,1.38
+cc3a4e3c,2025-11-16,Organic,VN,Tier 3,Android,0.0
+f2aeb8b2,2025-10-21,Unity Ads,JP,Tier 2,iOS,1.16
+cb7ab1a8,2025-11-13,Google Ads,BR,Tier 3,Android,0.68
+ac1f882c,2025-11-11,Organic,VN,Tier 3,iOS,0.0
+c4c30a72,2025-11-29,Facebook Ads,PH,Tier 3,Android,0.22
+c9a7a19e,2025-10-09,Unity Ads,IN,Tier 3,Android,0.56
+ddc794f9,2025-10-14,Facebook Ads,VN,Tier 3,Android,0.43
+0db4f9c7,2025-11-24,Unity Ads,KR,Tier 2,iOS,1.1
+2e69954e,2025-11-10,Unity Ads,JP,Tier 2,iOS,2.4
+659003ad,2025-11-20,Unity Ads,DE,Tier 2,Android,1.19
+a17607da,2025-10-18,Google Ads,DE,Tier 2,iOS,2.04
+6e414e7e,2025-10-29,Google Ads,IN,Tier 3,iOS,0.68
+a25dbc47,2025-11-11,Google Ads,AU,Tier 1,Android,3.89
+1dd1b87e,2025-10-12,Unity Ads,PH,Tier 3,Android,0.58
+79c55590,2025-10-24,Unity Ads,VN,Tier 3,iOS,0.6
+10c5eb2f,2025-10-22,Unity Ads,FR,Tier 2,iOS,2.14
+14c45be2,2025-11-07,Facebook Ads,JP,Tier 2,iOS,1.4
+a8c217d5,2025-10-06,Facebook Ads,BR,Tier 3,Android,0.71
+85f1623c,2025-11-05,Google Ads,PH,Tier 3,iOS,0.18
+98f46084,2025-10-06,Unity Ads,JP,Tier 2,Android,1.03
+ee976681,2025-11-28,Facebook Ads,US,Tier 1,iOS,4.5
+340b2509,2025-11-07,Organic,BR,Tier 3,iOS,0.0
+da4a8696,2025-10-13,Organic,VN,Tier 3,iOS,0.0
+38b78db0,2025-10-06,Organic,BR,Tier 3,Android,0.0
+c9c8dbef,2025-10-22,Unity Ads,VN,Tier 3,Android,0.57
+cc761693,2025-11-06,Organic,BR,Tier 3,iOS,0.0
+8fc4fcda,2025-10-26,Google Ads,IN,Tier 3,Android,0.4
+aec13837,2025-11-08,Google Ads,BR,Tier 3,iOS,0.73
+c3d4d3e6,2025-10-13,Organic,JP,Tier 2,Android,0.0
+10901a04,2025-10-12,Organic,JP,Tier 2,iOS,0.0
+425980d4,2025-10-01,Facebook Ads,IN,Tier 3,iOS,0.67
+61f4350d,2025-10-17,Google Ads,PH,Tier 3,iOS,0.29
+cfdebed2,2025-10-23,Unity Ads,VN,Tier 3,Android,0.5
+09ef5558,2025-11-02,Facebook Ads,AU,Tier 1,iOS,3.41
+a2c4a03f,2025-10-09,Unity Ads,PH,Tier 3,iOS,0.48
+75d5cba8,2025-10-19,Organic,UK,Tier 1,Android,0.0
+f94aa6b6,2025-10-24,Unity Ads,IN,Tier 3,iOS,0.33
+3f5043f4,2025-11-02,Unity Ads,UK,Tier 1,Android,2.76
+93911971,2025-10-12,Unity Ads,VN,Tier 3,Android,0.71
+a119760b,2025-10-14,Unity Ads,IN,Tier 3,Android,0.24
+b494ddad,2025-11-11,Facebook Ads,DE,Tier 2,iOS,1.09
+df841f50,2025-10-02,Organic,KR,Tier 2,iOS,0.0
+eb3f4685,2025-11-24,Unity Ads,VN,Tier 3,Android,0.35
+5cc8b27e,2025-11-02,Unity Ads,AU,Tier 1,iOS,3.1
+af18d08e,2025-10-31,Facebook Ads,VN,Tier 3,Android,0.39
+f47b4570,2025-11-25,Organic,VN,Tier 3,iOS,0.0
+cf1c2f76,2025-10-09,Organic,DE,Tier 2,iOS,0.0
+b2bee5cd,2025-10-24,Unity Ads,VN,Tier 3,Android,0.66
+c83be544,2025-11-09,Google Ads,BR,Tier 3,iOS,0.79
+3e6ddfe8,2025-10-29,Unity Ads,DE,Tier 2,iOS,2.44
+8b62a33f,2025-11-04,Google Ads,VN,Tier 3,iOS,0.42
+bc651fb7,2025-10-01,Google Ads,JP,Tier 2,iOS,1.93
+df50ba1a,2025-11-09,Facebook Ads,BR,Tier 3,iOS,0.34
+38bc3bf9,2025-11-12,Unity Ads,DE,Tier 2,iOS,2.2
+cb987375,2025-10-01,Unity Ads,IN,Tier 3,iOS,0.61
+780d94a7,2025-10-28,Organic,FR,Tier 2,iOS,0.0
+206481ea,2025-11-09,Facebook Ads,CA,Tier 1,Android,4.07
+3ec2d727,2025-11-10,Unity Ads,AU,Tier 1,Android,2.96
+a631cfe5,2025-11-11,Organic,FR,Tier 2,Android,0.0
+be99e750,2025-11-25,Facebook Ads,BR,Tier 3,Android,0.76
+9e1d70c3,2025-11-06,Organic,BR,Tier 3,Android,0.0
+b14a1478,2025-10-01,Unity Ads,US,Tier 1,iOS,2.57
+3ba9d43b,2025-11-07,Organic,CA,Tier 1,Android,0.0
+20ee7967,2025-10-05,Organic,US,Tier 1,iOS,0.0
+1720f34d,2025-11-25,Organic,CA,Tier 1,Android,0.0
+aef6846f,2025-11-25,Unity Ads,PH,Tier 3,iOS,0.72
+ea9822fd,2025-11-09,Organic,DE,Tier 2,iOS,0.0
+130c7542,2025-11-02,Organic,US,Tier 1,iOS,0.0
+a5a5d2af,2025-11-24,Unity Ads,DE,Tier 2,Android,1.63
+6688839a,2025-10-29,Google Ads,KR,Tier 2,Android,1.3
+004ec764,2025-10-16,Unity Ads,UK,Tier 1,Android,3.81
+7a730afd,2025-11-22,Organic,IN,Tier 3,Android,0.0
+0874ac8d,2025-10-30,Facebook Ads,CA,Tier 1,Android,3.16
+cc5fbc0f,2025-10-16,Facebook Ads,PH,Tier 3,Android,0.2
+139f5dc6,2025-11-25,Unity Ads,CA,Tier 1,iOS,3.95
+7f4e87c1,2025-11-23,Google Ads,VN,Tier 3,Android,0.37
+348820cc,2025-10-06,Organic,DE,Tier 2,Android,0.0
+77b06a1c,2025-10-28,Unity Ads,IN,Tier 3,Android,0.23
+c2929457,2025-11-04,Google Ads,UK,Tier 1,iOS,4.01
+2453c5f1,2025-11-05,Facebook Ads,JP,Tier 2,Android,1.7
+43eca997,2025-10-11,Organic,KR,Tier 2,Android,0.0
+85d3194f,2025-10-20,Facebook Ads,PH,Tier 3,iOS,0.15
+cc6d4e85,2025-11-08,Facebook Ads,FR,Tier 2,Android,2.05
+9d3d0049,2025-10-24,Google Ads,JP,Tier 2,iOS,2.26
+750e4ee5,2025-11-11,Organic,AU,Tier 1,Android,0.0
+6e929ad9,2025-11-16,Organic,PH,Tier 3,Android,0.0
+978b9dd5,2025-10-06,Unity Ads,VN,Tier 3,Android,0.26
+d1389fdf,2025-11-17,Facebook Ads,KR,Tier 2,iOS,2.49
+a5640756,2025-11-16,Organic,FR,Tier 2,iOS,0.0
+af34d98e,2025-11-06,Unity Ads,VN,Tier 3,iOS,0.65
+e757f46c,2025-10-26,Organic,KR,Tier 2,iOS,0.0
+0a2a9929,2025-10-25,Organic,BR,Tier 3,Android,0.0
+6f5e2994,2025-10-07,Organic,UK,Tier 1,Android,0.0
+bd2a8d98,2025-11-07,Unity Ads,DE,Tier 2,Android,1.79
+7eb8ce4a,2025-11-08,Unity Ads,US,Tier 1,Android,3.26
+4244ace4,2025-11-08,Google Ads,PH,Tier 3,iOS,0.79
+c3f13f0a,2025-10-26,Facebook Ads,DE,Tier 2,Android,1.6
+ae4c2c8f,2025-10-29,Facebook Ads,VN,Tier 3,Android,0.28
+3442cf10,2025-11-22,Facebook Ads,PH,Tier 3,iOS,0.67
+c2e77bf9,2025-11-14,Facebook Ads,PH,Tier 3,iOS,0.17
+c54e2311,2025-11-18,Unity Ads,DE,Tier 2,Android,2.33
+74769394,2025-11-27,Unity Ads,PH,Tier 3,Android,0.31
+825ca69c,2025-10-05,Google Ads,BR,Tier 3,iOS,0.65
+a51959d0,2025-10-31,Facebook Ads,PH,Tier 3,Android,0.79
+8cccf620,2025-11-26,Organic,IN,Tier 3,Android,0.0
+87f64c85,2025-11-17,Google Ads,JP,Tier 2,iOS,1.77
+85eb1c6f,2025-10-21,Unity Ads,IN,Tier 3,Android,0.6
+af4221bb,2025-11-04,Organic,BR,Tier 3,iOS,0.0
+e9c05585,2025-11-08,Google Ads,FR,Tier 2,Android,1.81
+732631c3,2025-11-29,Unity Ads,PH,Tier 3,Android,0.69
+469d4f2c,2025-10-16,Unity Ads,BR,Tier 3,Android,0.17
+1a6a8bce,2025-10-26,Google Ads,BR,Tier 3,Android,0.26
+2aa26e03,2025-10-17,Organic,DE,Tier 2,iOS,0.0
+1515aaae,2025-10-04,Organic,VN,Tier 3,iOS,0.0
+ffd105d0,2025-11-02,Unity Ads,DE,Tier 2,iOS,1.5
+46942d19,2025-10-23,Unity Ads,PH,Tier 3,Android,0.25
+37902fd9,2025-10-17,Facebook Ads,IN,Tier 3,iOS,0.1
+92c2d017,2025-10-26,Facebook Ads,US,Tier 1,iOS,3.98
+8d1ad162,2025-10-06,Facebook Ads,CA,Tier 1,iOS,3.26
+a14c437f,2025-11-02,Organic,US,Tier 1,Android,0.0
+130216bc,2025-11-29,Organic,US,Tier 1,iOS,0.0
+b4d07e44,2025-10-28,Facebook Ads,JP,Tier 2,Android,1.97
+60e09ca9,2025-11-05,Facebook Ads,VN,Tier 3,Android,0.19
+d0a7a937,2025-10-07,Organic,BR,Tier 3,Android,0.0
+2bd80d87,2025-11-15,Unity Ads,PH,Tier 3,iOS,0.79
+9e334c90,2025-10-25,Unity Ads,UK,Tier 1,Android,3.59
+6d74fcb3,2025-10-15,Organic,IN,Tier 3,Android,0.0
+5f0e152f,2025-10-13,Organic,AU,Tier 1,Android,0.0
+1cae8ca1,2025-10-06,Organic,KR,Tier 2,iOS,0.0
+84eb6ce7,2025-10-22,Google Ads,AU,Tier 1,Android,3.58
+b569c3ce,2025-10-22,Organic,US,Tier 1,Android,0.0
+ac5d2727,2025-11-20,Facebook Ads,DE,Tier 2,iOS,1.72
+7e98bf8d,2025-11-29,Google Ads,VN,Tier 3,Android,0.15
+5365e492,2025-10-27,Unity Ads,KR,Tier 2,iOS,1.6
+add73724,2025-10-03,Facebook Ads,KR,Tier 2,iOS,2.21
+6967f06a,2025-11-21,Unity Ads,DE,Tier 2,iOS,1.46
+0f2d84d9,2025-10-20,Organic,BR,Tier 3,iOS,0.0
+58d48288,2025-10-09,Unity Ads,JP,Tier 2,iOS,2.21
+0dd1b816,2025-11-04,Unity Ads,JP,Tier 2,iOS,1.89
+4208f612,2025-10-31,Unity Ads,IN,Tier 3,iOS,0.75
+210fbd6a,2025-11-01,Facebook Ads,PH,Tier 3,iOS,0.47
+cae00bb0,2025-11-21,Organic,IN,Tier 3,Android,0.0
+98b25605,2025-11-26,Facebook Ads,PH,Tier 3,iOS,0.38
+a3eb0ec5,2025-10-25,Google Ads,BR,Tier 3,iOS,0.51
+6d0bd070,2025-11-28,Google Ads,US,Tier 1,iOS,3.98
+ab841920,2025-11-10,Facebook Ads,DE,Tier 2,Android,1.77
+5b6e5f4b,2025-10-07,Google Ads,PH,Tier 3,Android,0.2
+7df4383a,2025-10-03,Organic,AU,Tier 1,Android,0.0
+7499fd25,2025-10-29,Google Ads,PH,Tier 3,Android,0.13
+70473ec9,2025-11-07,Organic,IN,Tier 3,iOS,0.0
+c51744ec,2025-10-07,Unity Ads,DE,Tier 2,Android,1.39
+3153dbf3,2025-11-07,Google Ads,US,Tier 1,iOS,3.83
+9204b02e,2025-11-04,Unity Ads,UK,Tier 1,Android,3.82
+c80ece33,2025-10-05,Organic,FR,Tier 2,iOS,0.0
+3ba409a0,2025-11-11,Google Ads,PH,Tier 3,iOS,0.67
+8c5e39ad,2025-10-20,Facebook Ads,IN,Tier 3,iOS,0.78
+1a16f0f2,2025-10-15,Facebook Ads,VN,Tier 3,iOS,0.71
+a98a9a08,2025-11-22,Facebook Ads,KR,Tier 2,Android,1.04
+a9b30e04,2025-11-29,Facebook Ads,FR,Tier 2,Android,2.46
+1f6c4c2b,2025-10-13,Organic,PH,Tier 3,iOS,0.0
+2d735ea0,2025-10-04,Unity Ads,UK,Tier 1,Android,4.26
+4b6afc92,2025-10-20,Organic,BR,Tier 3,iOS,0.0
+2b38b496,2025-11-13,Organic,PH,Tier 3,Android,0.0
+cc4b331e,2025-11-24,Organic,BR,Tier 3,iOS,0.0
+b1cd5912,2025-11-19,Unity Ads,VN,Tier 3,Android,0.31
+0d603bf6,2025-11-09,Google Ads,IN,Tier 3,Android,0.12
+6c475f5c,2025-11-07,Unity Ads,JP,Tier 2,Android,2.41
+6cd10467,2025-11-11,Facebook Ads,DE,Tier 2,Android,2.25
+81ad7e5e,2025-10-02,Unity Ads,VN,Tier 3,Android,0.68
+2941d14a,2025-11-24,Facebook Ads,JP,Tier 2,iOS,1.67
+158444fe,2025-11-09,Organic,PH,Tier 3,Android,0.0
+230b3d20,2025-11-12,Google Ads,KR,Tier 2,Android,1.01
+80639fe9,2025-11-24,Organic,UK,Tier 1,Android,0.0
+1b05bfe7,2025-10-16,Facebook Ads,US,Tier 1,iOS,4.86
+938b21f7,2025-11-16,Organic,IN,Tier 3,Android,0.0
+6edff426,2025-11-11,Organic,UK,Tier 1,Android,0.0
+53d06f6d,2025-10-23,Organic,PH,Tier 3,Android,0.0
+accd70e2,2025-10-13,Google Ads,BR,Tier 3,iOS,0.25
+542b0146,2025-10-07,Facebook Ads,US,Tier 1,Android,4.6
+9f3c61ed,2025-11-04,Organic,IN,Tier 3,iOS,0.0
+50d1eb0e,2025-10-28,Facebook Ads,PH,Tier 3,iOS,0.37
+86c8a755,2025-11-07,Unity Ads,IN,Tier 3,iOS,0.52
+511b9a71,2025-10-06,Organic,CA,Tier 1,iOS,0.0
+768d8399,2025-11-23,Unity Ads,AU,Tier 1,Android,4.29
+859eeb93,2025-10-27,Facebook Ads,IN,Tier 3,iOS,0.68
+0ce06cd3,2025-11-22,Unity Ads,VN,Tier 3,Android,0.17
+d49605d1,2025-10-09,Unity Ads,DE,Tier 2,Android,1.36
+1d2c39e1,2025-11-18,Google Ads,JP,Tier 2,iOS,1.32
+3a88a8b1,2025-10-07,Facebook Ads,IN,Tier 3,iOS,0.47
+e30fcae1,2025-10-26,Google Ads,PH,Tier 3,iOS,0.7
+c10bbe62,2025-11-18,Facebook Ads,VN,Tier 3,iOS,0.69
+6eb7985f,2025-11-25,Google Ads,AU,Tier 1,iOS,3.81
+22ca4217,2025-10-29,Organic,PH,Tier 3,Android,0.0
+65644770,2025-11-01,Google Ads,JP,Tier 2,Android,1.56
+23446c00,2025-10-08,Google Ads,VN,Tier 3,iOS,0.69
+b2227438,2025-11-24,Organic,KR,Tier 2,iOS,0.0
+4f8dd35a,2025-11-27,Unity Ads,KR,Tier 2,iOS,2.34
+a90eb943,2025-11-16,Unity Ads,BR,Tier 3,Android,0.25
+5df40a31,2025-11-24,Unity Ads,KR,Tier 2,iOS,2.05
+7ba04318,2025-10-13,Google Ads,VN,Tier 3,Android,0.49
+f08a4c45,2025-11-26,Organic,IN,Tier 3,iOS,0.0
+9a862499,2025-10-04,Organic,PH,Tier 3,Android,0.0
+28425f66,2025-10-19,Google Ads,PH,Tier 3,iOS,0.71
+e91afdb2,2025-10-16,Facebook Ads,PH,Tier 3,iOS,0.61
+c84fab58,2025-10-04,Google Ads,JP,Tier 2,iOS,1.62
+8f403d6d,2025-11-15,Organic,PH,Tier 3,iOS,0.0
+04c59617,2025-10-03,Google Ads,PH,Tier 3,iOS,0.32
+1466a294,2025-11-28,Organic,KR,Tier 2,Android,0.0
+6b9a6e5c,2025-10-29,Google Ads,DE,Tier 2,iOS,2.42
+e7b9e627,2025-10-22,Facebook Ads,IN,Tier 3,iOS,0.1
+899fa9ca,2025-11-06,Organic,BR,Tier 3,Android,0.0
+4bff5f95,2025-10-16,Organic,KR,Tier 2,Android,0.0
+b2b8efcc,2025-10-11,Unity Ads,JP,Tier 2,iOS,1.61
+722e339b,2025-10-19,Facebook Ads,US,Tier 1,Android,2.6
+1181bc67,2025-11-05,Google Ads,VN,Tier 3,iOS,0.34
+d2df1179,2025-11-19,Unity Ads,DE,Tier 2,iOS,1.92
+90924808,2025-10-11,Organic,VN,Tier 3,Android,0.0
+16cff6b7,2025-11-13,Unity Ads,IN,Tier 3,Android,0.2
+24338249,2025-11-20,Facebook Ads,UK,Tier 1,iOS,4.41
+b6b05139,2025-10-19,Facebook Ads,PH,Tier 3,iOS,0.26
+dc7d3a68,2025-11-13,Facebook Ads,PH,Tier 3,Android,0.6
+25decd75,2025-10-11,Facebook Ads,JP,Tier 2,Android,1.24
+8a59fbb4,2025-11-25,Organic,BR,Tier 3,iOS,0.0
+d60eb0d1,2025-10-23,Facebook Ads,FR,Tier 2,Android,2.01
+aca415d2,2025-10-28,Google Ads,FR,Tier 2,iOS,1.65
+670190d6,2025-10-10,Google Ads,DE,Tier 2,Android,1.55
+c14e95a4,2025-11-23,Google Ads,DE,Tier 2,Android,1.57
+c16fed3a,2025-10-02,Unity Ads,PH,Tier 3,iOS,0.72
+5ba85729,2025-10-03,Unity Ads,KR,Tier 2,iOS,2.2
+3a3c5db6,2025-10-22,Google Ads,IN,Tier 3,Android,0.16
+e717e68b,2025-10-09,Google Ads,UK,Tier 1,Android,4.19
+03a975f0,2025-11-29,Google Ads,KR,Tier 2,iOS,2.11
+b0788a2a,2025-11-05,Organic,JP,Tier 2,iOS,0.0
+8310e3ef,2025-10-13,Facebook Ads,AU,Tier 1,Android,3.74
+b2b37f4c,2025-11-14,Unity Ads,JP,Tier 2,iOS,1.83
+830ebbfe,2025-10-25,Organic,KR,Tier 2,iOS,0.0
+6848221a,2025-11-02,Facebook Ads,IN,Tier 3,Android,0.57
+a049b8ea,2025-10-22,Unity Ads,PH,Tier 3,iOS,0.33
+03a619f4,2025-10-02,Unity Ads,BR,Tier 3,iOS,0.22
+214a52c2,2025-10-08,Facebook Ads,DE,Tier 2,iOS,2.45
+3ecdf325,2025-10-04,Organic,FR,Tier 2,Android,0.0
+21714b05,2025-11-15,Organic,PH,Tier 3,iOS,0.0
+2a223966,2025-11-23,Unity Ads,US,Tier 1,iOS,3.93
+d11e09be,2025-10-19,Unity Ads,IN,Tier 3,Android,0.48
+4ddaea19,2025-11-07,Google Ads,PH,Tier 3,iOS,0.21
+9ba84bb7,2025-11-07,Google Ads,PH,Tier 3,Android,0.73
+717f6e53,2025-11-15,Unity Ads,BR,Tier 3,iOS,0.25
+c194aa05,2025-11-16,Facebook Ads,CA,Tier 1,iOS,4.67
+afb24139,2025-10-19,Facebook Ads,BR,Tier 3,iOS,0.76
+4858f90c,2025-11-17,Unity Ads,VN,Tier 3,iOS,0.24
+312edab8,2025-10-27,Google Ads,KR,Tier 2,iOS,1.24
+1f4311ba,2025-10-13,Google Ads,VN,Tier 3,Android,0.5
+120d7a9f,2025-10-07,Google Ads,DE,Tier 2,Android,1.53
+6d86813c,2025-11-19,Organic,CA,Tier 1,iOS,0.0
+3d768908,2025-11-28,Organic,DE,Tier 2,Android,0.0
+2ea763fb,2025-11-04,Facebook Ads,AU,Tier 1,iOS,3.83
+2f27f971,2025-11-29,Google Ads,AU,Tier 1,iOS,4.01
+0b456b5c,2025-10-07,Unity Ads,CA,Tier 1,Android,2.56
+c1a87d6d,2025-11-29,Google Ads,DE,Tier 2,iOS,1.79
+172afb1f,2025-10-03,Facebook Ads,IN,Tier 3,Android,0.23
+68297399,2025-10-30,Organic,UK,Tier 1,iOS,0.0
+383812e7,2025-11-18,Facebook Ads,IN,Tier 3,Android,0.65
+c084b162,2025-10-31,Organic,BR,Tier 3,iOS,0.0
+e5edf0b8,2025-10-22,Facebook Ads,US,Tier 1,iOS,3.59
+6cd4d5dd,2025-10-08,Google Ads,US,Tier 1,Android,2.81
+982b9d50,2025-10-12,Organic,VN,Tier 3,Android,0.0
+eb37095e,2025-11-24,Organic,DE,Tier 2,iOS,0.0
+1ff684a2,2025-11-03,Organic,JP,Tier 2,iOS,0.0
+6b009903,2025-11-26,Facebook Ads,IN,Tier 3,iOS,0.38
+c89080fb,2025-10-11,Facebook Ads,JP,Tier 2,Android,2.09
+8cddf326,2025-11-11,Facebook Ads,VN,Tier 3,iOS,0.37
+5eeebd32,2025-10-25,Google Ads,US,Tier 1,Android,2.96
+93e0a56f,2025-10-29,Facebook Ads,KR,Tier 2,iOS,1.04
+6df90672,2025-10-11,Google Ads,BR,Tier 3,Android,0.13
+b3635529,2025-11-20,Google Ads,AU,Tier 1,Android,3.58
+e53ab93c,2025-10-21,Unity Ads,BR,Tier 3,iOS,0.79
+50c4e343,2025-11-21,Google Ads,DE,Tier 2,iOS,1.83
+2b3b31bb,2025-10-16,Unity Ads,CA,Tier 1,Android,2.63
+6653edac,2025-11-12,Google Ads,BR,Tier 3,iOS,0.36
+002c032e,2025-10-11,Organic,PH,Tier 3,Android,0.0
+945fbabe,2025-11-09,Facebook Ads,VN,Tier 3,Android,0.1
+e42c6db6,2025-10-26,Unity Ads,PH,Tier 3,iOS,0.6
+897719f9,2025-11-11,Unity Ads,IN,Tier 3,Android,0.27
+e97e3451,2025-10-30,Facebook Ads,DE,Tier 2,iOS,1.74
+3967b263,2025-10-31,Organic,IN,Tier 3,iOS,0.0
+0624eaa5,2025-11-17,Organic,PH,Tier 3,Android,0.0
+976b84da,2025-11-03,Organic,AU,Tier 1,Android,0.0
+977886d5,2025-10-08,Google Ads,VN,Tier 3,Android,0.23
+a3a02928,2025-11-24,Facebook Ads,DE,Tier 2,Android,1.97
+e0d096eb,2025-11-28,Facebook Ads,CA,Tier 1,iOS,4.94
+ade040ef,2025-10-19,Organic,IN,Tier 3,Android,0.0
+026de9db,2025-10-02,Organic,AU,Tier 1,Android,0.0
+f4deb46a,2025-11-08,Facebook Ads,JP,Tier 2,iOS,2.26
+291c2a3b,2025-10-11,Facebook Ads,VN,Tier 3,Android,0.57
+75143d6f,2025-10-12,Facebook Ads,VN,Tier 3,Android,0.43
+57d9ae39,2025-11-01,Unity Ads,FR,Tier 2,Android,2.46
+e23d2124,2025-10-06,Organic,VN,Tier 3,iOS,0.0
+c7d31e7a,2025-10-11,Unity Ads,JP,Tier 2,iOS,2.15
+3d4928ce,2025-11-15,Facebook Ads,IN,Tier 3,iOS,0.49
+05c07a29,2025-11-21,Unity Ads,PH,Tier 3,iOS,0.66
+77d9c6d7,2025-10-21,Google Ads,DE,Tier 2,iOS,2.08
+438a4ed2,2025-10-27,Facebook Ads,IN,Tier 3,Android,0.11
+ec4a767f,2025-10-11,Organic,VN,Tier 3,Android,0.0
+ca90c60c,2025-11-17,Google Ads,UK,Tier 1,iOS,2.68
+bd04995a,2025-10-29,Facebook Ads,CA,Tier 1,iOS,2.83
+72de708b,2025-11-25,Facebook Ads,IN,Tier 3,iOS,0.31
+706cfc5a,2025-11-06,Organic,IN,Tier 3,iOS,0.0
+c54d6d33,2025-10-14,Unity Ads,BR,Tier 3,iOS,0.41
+4bea7d8f,2025-11-04,Google Ads,UK,Tier 1,Android,4.63
+04e45bd3,2025-11-02,Organic,IN,Tier 3,Android,0.0
+4b93855d,2025-10-30,Google Ads,PH,Tier 3,Android,0.4
+8703c508,2025-11-20,Google Ads,DE,Tier 2,Android,1.6
+9918ff18,2025-11-11,Google Ads,PH,Tier 3,iOS,0.39
+2ee4d3c4,2025-10-27,Organic,UK,Tier 1,Android,0.0
+7fbd99ff,2025-11-22,Facebook Ads,DE,Tier 2,iOS,1.24
+13bd2333,2025-10-14,Google Ads,VN,Tier 3,iOS,0.5
+63b4b38f,2025-11-13,Google Ads,BR,Tier 3,iOS,0.46
+e6083293,2025-11-23,Google Ads,JP,Tier 2,iOS,2.18
+28e86f9a,2025-11-25,Organic,JP,Tier 2,iOS,0.0
+e3bb00c2,2025-11-16,Unity Ads,FR,Tier 2,Android,1.81
+1649e052,2025-10-25,Unity Ads,VN,Tier 3,Android,0.43
+35c81793,2025-11-10,Organic,FR,Tier 2,Android,0.0
+c57b4e05,2025-10-23,Unity Ads,US,Tier 1,Android,4.96
+a1f0b062,2025-10-11,Organic,PH,Tier 3,iOS,0.0
+03fca953,2025-11-29,Unity Ads,DE,Tier 2,Android,1.61
+a95a6d65,2025-11-26,Unity Ads,JP,Tier 2,Android,1.41
+21a41198,2025-11-13,Facebook Ads,AU,Tier 1,Android,3.7
+f10f6056,2025-11-23,Organic,UK,Tier 1,iOS,0.0
+f81aa102,2025-11-13,Unity Ads,KR,Tier 2,iOS,1.59
+c9298e6f,2025-10-02,Organic,BR,Tier 3,Android,0.0
+cd80d51a,2025-11-16,Unity Ads,DE,Tier 2,iOS,1.63
+78a41da1,2025-11-20,Organic,US,Tier 1,iOS,0.0
+5f91f2c2,2025-11-14,Facebook Ads,KR,Tier 2,Android,1.28
+5bcb761d,2025-10-26,Unity Ads,VN,Tier 3,Android,0.18
+cda13ddc,2025-10-07,Google Ads,FR,Tier 2,Android,2.36
+7365ac1f,2025-11-01,Organic,FR,Tier 2,iOS,0.0
+5d08b7e1,2025-10-19,Google Ads,FR,Tier 2,iOS,1.68
+c522b958,2025-11-22,Google Ads,PH,Tier 3,iOS,0.27
+0a8df6dd,2025-11-29,Organic,JP,Tier 2,iOS,0.0
+89c8c35a,2025-10-09,Facebook Ads,AU,Tier 1,Android,3.19
+490499cc,2025-11-28,Unity Ads,PH,Tier 3,Android,0.34
+758d48a3,2025-11-12,Unity Ads,FR,Tier 2,Android,1.2
+a9f87f51,2025-10-20,Facebook Ads,VN,Tier 3,iOS,0.62
+5cccbe7e,2025-11-21,Unity Ads,VN,Tier 3,iOS,0.17
+d4fdf919,2025-11-23,Organic,VN,Tier 3,Android,0.0
+6a2520f4,2025-11-01,Facebook Ads,BR,Tier 3,Android,0.68
+4946b2f9,2025-11-06,Unity Ads,BR,Tier 3,iOS,0.23
+c85f861c,2025-10-04,Unity Ads,JP,Tier 2,Android,1.25
+6c3fc1d9,2025-11-06,Unity Ads,PH,Tier 3,Android,0.15
+94489f32,2025-11-03,Google Ads,US,Tier 1,iOS,4.67
+16ebca33,2025-11-23,Google Ads,BR,Tier 3,Android,0.31
+c108d3da,2025-10-12,Organic,DE,Tier 2,Android,0.0
+68e312e9,2025-10-18,Facebook Ads,US,Tier 1,Android,3.57
+a441b081,2025-10-02,Organic,KR,Tier 2,Android,0.0
+3a6e0ffa,2025-11-02,Facebook Ads,KR,Tier 2,Android,2.16
+206c973b,2025-11-06,Unity Ads,PH,Tier 3,iOS,0.76
+47702909,2025-11-24,Facebook Ads,VN,Tier 3,Android,0.19
+8b8ccce3,2025-10-20,Unity Ads,VN,Tier 3,iOS,0.42
+816ccac5,2025-10-31,Organic,VN,Tier 3,Android,0.0
+6ca63b12,2025-11-25,Google Ads,KR,Tier 2,iOS,2.17
+2b3fd706,2025-11-07,Unity Ads,IN,Tier 3,Android,0.29
+91314bce,2025-10-07,Google Ads,VN,Tier 3,Android,0.76
+b2c0aa73,2025-10-12,Google Ads,JP,Tier 2,iOS,1.7
+dc017fa2,2025-11-06,Organic,VN,Tier 3,iOS,0.0
+a6f38e65,2025-10-25,Unity Ads,FR,Tier 2,Android,1.1
+01297ce9,2025-11-27,Facebook Ads,US,Tier 1,Android,3.37
+a54e8e77,2025-10-30,Facebook Ads,IN,Tier 3,iOS,0.4
+8cf03dd6,2025-10-09,Unity Ads,BR,Tier 3,iOS,0.33
+29488802,2025-11-22,Google Ads,KR,Tier 2,iOS,1.17
+85d0504e,2025-11-04,Unity Ads,PH,Tier 3,iOS,0.76
+126b2efa,2025-10-02,Google Ads,BR,Tier 3,Android,0.34
+448d3413,2025-11-28,Organic,PH,Tier 3,iOS,0.0
+02a49e73,2025-10-20,Organic,FR,Tier 2,Android,0.0
+9fd8e340,2025-11-26,Facebook Ads,US,Tier 1,Android,4.36
+33b22b99,2025-10-14,Unity Ads,PH,Tier 3,iOS,0.24
+17d14220,2025-11-07,Unity Ads,JP,Tier 2,Android,1.84
+6ca1b71b,2025-11-21,Facebook Ads,PH,Tier 3,Android,0.66
+fe2da58d,2025-10-29,Organic,BR,Tier 3,Android,0.0
+2ab771ce,2025-11-15,Facebook Ads,IN,Tier 3,Android,0.49
+b21d10c1,2025-10-08,Google Ads,VN,Tier 3,Android,0.62
+7d8e7746,2025-11-20,Google Ads,AU,Tier 1,iOS,3.13
+287371a0,2025-11-17,Google Ads,PH,Tier 3,iOS,0.27
+f35cfdfd,2025-10-29,Organic,IN,Tier 3,Android,0.0
+8d210b71,2025-10-29,Unity Ads,VN,Tier 3,iOS,0.67
+d35e83a0,2025-11-21,Organic,US,Tier 1,iOS,0.0
+c37f4db9,2025-10-01,Unity Ads,UK,Tier 1,Android,3.51
+68dee198,2025-11-14,Google Ads,IN,Tier 3,Android,0.46
+f3a4fee9,2025-11-16,Google Ads,PH,Tier 3,Android,0.57
+372eb7b3,2025-10-30,Organic,VN,Tier 3,iOS,0.0
+c283f3e8,2025-11-17,Facebook Ads,AU,Tier 1,iOS,2.89
+24bfeb59,2025-10-01,Organic,VN,Tier 3,iOS,0.0
+0052244a,2025-11-10,Organic,UK,Tier 1,iOS,0.0
+0b797958,2025-11-04,Organic,UK,Tier 1,Android,0.0
+187f0ada,2025-11-26,Unity Ads,UK,Tier 1,iOS,3.53
+ad7f3ba1,2025-11-19,Unity Ads,BR,Tier 3,iOS,0.6
+c6c80e0f,2025-10-12,Unity Ads,FR,Tier 2,iOS,1.51
+b5fe7358,2025-10-25,Google Ads,PH,Tier 3,iOS,0.44
+d37f1796,2025-11-09,Facebook Ads,FR,Tier 2,Android,2.26
+8ab54a1f,2025-11-14,Facebook Ads,VN,Tier 3,Android,0.44
+918bbd43,2025-11-01,Google Ads,FR,Tier 2,Android,1.4
+2254538e,2025-10-24,Google Ads,VN,Tier 3,iOS,0.2
+b1c385a1,2025-10-06,Facebook Ads,BR,Tier 3,Android,0.56
+3639b9a2,2025-10-12,Organic,PH,Tier 3,Android,0.0
+46fc36d0,2025-11-19,Organic,BR,Tier 3,iOS,0.0
+6e377a3e,2025-11-03,Facebook Ads,BR,Tier 3,iOS,0.61
+6bfde03e,2025-10-31,Facebook Ads,IN,Tier 3,iOS,0.32
+69532441,2025-11-18,Unity Ads,DE,Tier 2,Android,1.6
+5c53a612,2025-11-15,Google Ads,VN,Tier 3,Android,0.67
+ce9a8909,2025-10-01,Organic,PH,Tier 3,iOS,0.0
+23d9e8c6,2025-10-25,Google Ads,VN,Tier 3,iOS,0.36
+de8308b8,2025-11-10,Organic,JP,Tier 2,iOS,0.0
+0e58f335,2025-10-10,Facebook Ads,DE,Tier 2,iOS,2.18
+fddb0a6d,2025-10-13,Organic,IN,Tier 3,iOS,0.0
+459f9331,2025-11-22,Unity Ads,IN,Tier 3,Android,0.53
+843dd48a,2025-10-05,Unity Ads,BR,Tier 3,iOS,0.57
+55767df5,2025-10-06,Facebook Ads,JP,Tier 2,iOS,2.17
+a69a26ce,2025-11-19,Google Ads,PH,Tier 3,Android,0.55
+a1983ec5,2025-10-17,Organic,BR,Tier 3,iOS,0.0
+175032e1,2025-10-15,Facebook Ads,AU,Tier 1,iOS,4.54
+418b2f8a,2025-11-02,Organic,IN,Tier 3,iOS,0.0
+469b0e5b,2025-10-31,Facebook Ads,UK,Tier 1,iOS,3.31
+306ea3c4,2025-11-22,Organic,IN,Tier 3,Android,0.0
+bd74e461,2025-10-18,Google Ads,AU,Tier 1,Android,4.75
+dcaabc5d,2025-11-11,Unity Ads,JP,Tier 2,Android,1.66
+3eeb5141,2025-11-29,Google Ads,IN,Tier 3,Android,0.44
+48017a1e,2025-10-01,Unity Ads,IN,Tier 3,iOS,0.61
+7ab05486,2025-10-23,Google Ads,JP,Tier 2,iOS,2.39
+1ca8a1f3,2025-11-26,Google Ads,KR,Tier 2,iOS,1.4
+50435377,2025-11-08,Google Ads,IN,Tier 3,Android,0.4
+5d190887,2025-10-05,Google Ads,PH,Tier 3,iOS,0.53
+eae4df49,2025-11-24,Facebook Ads,AU,Tier 1,iOS,4.28
+1e1fc655,2025-10-20,Unity Ads,VN,Tier 3,Android,0.25
+0be54f5d,2025-10-09,Google Ads,JP,Tier 2,iOS,2.25
+b87da9c9,2025-10-26,Google Ads,BR,Tier 3,Android,0.78
+83eb2367,2025-10-22,Facebook Ads,IN,Tier 3,iOS,0.36
+45ba61e9,2025-10-03,Organic,DE,Tier 2,iOS,0.0
+c780c0c8,2025-10-29,Facebook Ads,KR,Tier 2,iOS,2.03
+c6b7e27c,2025-11-18,Facebook Ads,IN,Tier 3,iOS,0.67
+7048be5f,2025-11-05,Google Ads,US,Tier 1,Android,2.87
+d381c539,2025-11-26,Unity Ads,BR,Tier 3,Android,0.36
+6dbfa1f9,2025-10-07,Organic,IN,Tier 3,Android,0.0
+113e9d19,2025-11-15,Organic,UK,Tier 1,Android,0.0
+0d318825,2025-11-07,Facebook Ads,CA,Tier 1,iOS,4.63
+deb8a6fe,2025-10-11,Organic,IN,Tier 3,Android,0.0
+39262c41,2025-10-10,Unity Ads,DE,Tier 2,iOS,2.09
+bfa3cef1,2025-10-29,Facebook Ads,IN,Tier 3,Android,0.7
+686fe089,2025-10-29,Google Ads,KR,Tier 2,Android,1.54
+801545c4,2025-11-21,Unity Ads,US,Tier 1,Android,4.15
+123f36c1,2025-10-04,Facebook Ads,BR,Tier 3,Android,0.65
+5786411e,2025-11-11,Organic,CA,Tier 1,Android,0.0
+202d0599,2025-10-06,Google Ads,KR,Tier 2,iOS,1.08
+875b27b8,2025-10-25,Google Ads,US,Tier 1,Android,4.08
+b56c8296,2025-11-03,Unity Ads,CA,Tier 1,iOS,3.26
+0efc002e,2025-10-12,Unity Ads,BR,Tier 3,iOS,0.75
+bf66c28b,2025-11-15,Facebook Ads,DE,Tier 2,iOS,1.43
+c61d2ec3,2025-10-27,Facebook Ads,DE,Tier 2,iOS,2.27
+d5c780d5,2025-11-19,Google Ads,BR,Tier 3,iOS,0.26
+d5ec7da0,2025-10-23,Unity Ads,BR,Tier 3,iOS,0.57
+37f0211c,2025-11-11,Organic,IN,Tier 3,iOS,0.0
+b2db704b,2025-10-26,Google Ads,BR,Tier 3,Android,0.64
+b0ab3ee0,2025-10-12,Google Ads,BR,Tier 3,iOS,0.17
+05424985,2025-10-25,Facebook Ads,VN,Tier 3,iOS,0.74
+a2d914e7,2025-11-28,Unity Ads,UK,Tier 1,Android,4.24
+d8c6d8be,2025-10-12,Organic,PH,Tier 3,iOS,0.0
+72c04e30,2025-10-18,Google Ads,BR,Tier 3,Android,0.53
+d0f27ecc,2025-11-26,Facebook Ads,AU,Tier 1,Android,3.92
+abcd8dba,2025-11-29,Google Ads,AU,Tier 1,iOS,4.26
+7f74527f,2025-11-29,Google Ads,VN,Tier 3,Android,0.48
+951fee74,2025-11-27,Organic,AU,Tier 1,Android,0.0
+d17c8546,2025-10-23,Organic,PH,Tier 3,Android,0.0
+c123ac57,2025-11-23,Unity Ads,JP,Tier 2,Android,1.1
+35f43495,2025-11-23,Unity Ads,BR,Tier 3,iOS,0.56
+f2763647,2025-10-21,Facebook Ads,FR,Tier 2,Android,1.39
+e3bc840c,2025-11-09,Google Ads,PH,Tier 3,Android,0.23
+9fefa516,2025-11-28,Google Ads,JP,Tier 2,iOS,2.44
+44b0d5ca,2025-11-03,Unity Ads,UK,Tier 1,Android,3.63
+a87e074d,2025-11-16,Unity Ads,DE,Tier 2,iOS,1.3
+32d6179c,2025-10-14,Google Ads,IN,Tier 3,Android,0.68
+4040599e,2025-10-09,Facebook Ads,DE,Tier 2,iOS,1.57
+988b5fb7,2025-10-03,Organic,FR,Tier 2,iOS,0.0
+8233040a,2025-11-22,Facebook Ads,PH,Tier 3,Android,0.26
+b6676dd3,2025-10-03,Unity Ads,AU,Tier 1,iOS,4.12
+bf00de37,2025-10-27,Facebook Ads,IN,Tier 3,iOS,0.65
+ee8aaea4,2025-11-20,Unity Ads,IN,Tier 3,iOS,0.74
+5e6323df,2025-10-27,Google Ads,US,Tier 1,iOS,3.85
+1a3dd058,2025-10-08,Facebook Ads,KR,Tier 2,iOS,1.29
+29f658e0,2025-10-17,Organic,US,Tier 1,iOS,0.0
+642ef9d1,2025-11-24,Unity Ads,VN,Tier 3,Android,0.73
+1703e360,2025-10-21,Facebook Ads,DE,Tier 2,Android,1.84
+7baf1988,2025-11-04,Google Ads,IN,Tier 3,Android,0.31
+fc4e05a0,2025-11-27,Organic,CA,Tier 1,Android,0.0
+c15c0f71,2025-10-26,Unity Ads,FR,Tier 2,Android,1.29
+66f78310,2025-11-19,Facebook Ads,BR,Tier 3,Android,0.16
+9117d42f,2025-10-04,Organic,DE,Tier 2,iOS,0.0
+623d7fb4,2025-11-07,Organic,US,Tier 1,iOS,0.0
+ae5ce0c0,2025-10-30,Organic,UK,Tier 1,Android,0.0
+0ba23474,2025-10-06,Organic,KR,Tier 2,iOS,0.0
+ddf28f89,2025-11-09,Unity Ads,US,Tier 1,iOS,4.77
+4f8f480c,2025-10-01,Google Ads,UK,Tier 1,Android,3.76
+d7d9839a,2025-11-10,Facebook Ads,VN,Tier 3,iOS,0.7
+7382efb8,2025-11-27,Unity Ads,VN,Tier 3,Android,0.55
+42a0cea6,2025-11-12,Organic,JP,Tier 2,iOS,0.0
+cea7a398,2025-10-05,Google Ads,CA,Tier 1,iOS,3.4
+18280b44,2025-10-28,Organic,KR,Tier 2,Android,0.0
+402bc802,2025-11-06,Facebook Ads,CA,Tier 1,Android,3.23
+97211d95,2025-10-23,Unity Ads,CA,Tier 1,Android,4.96
+39e2f4ff,2025-10-02,Facebook Ads,BR,Tier 3,iOS,0.2
+1f1ae9ad,2025-10-13,Google Ads,PH,Tier 3,Android,0.11
+9000469a,2025-11-21,Organic,VN,Tier 3,iOS,0.0
+2e7e66bc,2025-11-15,Organic,KR,Tier 2,Android,0.0
+8ea2c94f,2025-10-14,Unity Ads,UK,Tier 1,iOS,3.88
+6a8feffa,2025-11-26,Google Ads,FR,Tier 2,iOS,1.87
+d894a1d5,2025-11-16,Unity Ads,FR,Tier 2,iOS,1.46
+d67d5caa,2025-10-31,Facebook Ads,KR,Tier 2,Android,2.19
+bf462987,2025-11-18,Facebook Ads,DE,Tier 2,iOS,1.88
+7ab1bb5b,2025-10-10,Google Ads,VN,Tier 3,Android,0.35
+5a293749,2025-11-27,Facebook Ads,KR,Tier 2,Android,2.44
+e0728d13,2025-11-07,Google Ads,AU,Tier 1,iOS,3.24
+6f52d6f8,2025-11-24,Unity Ads,JP,Tier 2,iOS,2.44
+552b1c3d,2025-11-27,Google Ads,BR,Tier 3,iOS,0.72
+3a26e86a,2025-11-27,Organic,IN,Tier 3,iOS,0.0
+1dfbef4d,2025-11-11,Unity Ads,VN,Tier 3,iOS,0.26
+7456bf76,2025-10-07,Unity Ads,IN,Tier 3,Android,0.44
+e5a3c810,2025-11-05,Unity Ads,FR,Tier 2,iOS,1.94
+5eea21b0,2025-11-04,Unity Ads,FR,Tier 2,Android,1.81
+882bfa95,2025-10-26,Facebook Ads,CA,Tier 1,Android,3.68
+61f68115,2025-11-23,Unity Ads,KR,Tier 2,iOS,1.37
+32423264,2025-10-27,Unity Ads,AU,Tier 1,Android,3.08
+a8267a94,2025-11-20,Unity Ads,CA,Tier 1,Android,3.49
+0c8c4de0,2025-11-26,Unity Ads,VN,Tier 3,Android,0.23
+dbf35bc0,2025-11-21,Unity Ads,FR,Tier 2,Android,2.26
+faaf8bc4,2025-10-03,Unity Ads,IN,Tier 3,iOS,0.39
+23256b5d,2025-10-23,Unity Ads,FR,Tier 2,iOS,1.42
+201fa6f1,2025-10-07,Google Ads,BR,Tier 3,iOS,0.66
+6aa88ff6,2025-11-14,Google Ads,BR,Tier 3,iOS,0.47
+165577b1,2025-11-05,Organic,UK,Tier 1,iOS,0.0
+55fdda0f,2025-10-23,Google Ads,IN,Tier 3,iOS,0.51
+106dc493,2025-11-21,Google Ads,KR,Tier 2,iOS,1.33
+f02e9617,2025-10-19,Unity Ads,BR,Tier 3,iOS,0.62
+709fff5b,2025-10-09,Unity Ads,VN,Tier 3,Android,0.28
+b731327f,2025-11-23,Unity Ads,JP,Tier 2,iOS,2.46
+c67fc078,2025-10-20,Google Ads,KR,Tier 2,Android,2.03
+cc4991d7,2025-11-04,Facebook Ads,DE,Tier 2,Android,1.99
+03efae88,2025-10-17,Organic,BR,Tier 3,iOS,0.0
+31fc2a39,2025-10-05,Google Ads,UK,Tier 1,iOS,3.33
+93416d16,2025-10-18,Facebook Ads,PH,Tier 3,Android,0.47
+652c79f6,2025-11-17,Facebook Ads,JP,Tier 2,iOS,1.7
+41363395,2025-11-21,Organic,DE,Tier 2,iOS,0.0
+af9a643f,2025-11-11,Organic,FR,Tier 2,Android,0.0
+aeecbee9,2025-10-24,Organic,US,Tier 1,Android,0.0
+6122ae19,2025-10-04,Organic,IN,Tier 3,Android,0.0
+bf4e167e,2025-10-24,Facebook Ads,DE,Tier 2,Android,1.53
+035a00c1,2025-11-07,Google Ads,DE,Tier 2,Android,1.87
+56213ef9,2025-11-24,Organic,PH,Tier 3,iOS,0.0
+82be6b62,2025-11-12,Google Ads,US,Tier 1,Android,4.63
+86ef30fa,2025-11-20,Facebook Ads,US,Tier 1,iOS,4.71
+fdd38772,2025-10-22,Organic,BR,Tier 3,Android,0.0
+af346b23,2025-10-27,Facebook Ads,IN,Tier 3,Android,0.1
+d4651220,2025-10-11,Facebook Ads,US,Tier 1,iOS,3.71
+388264f2,2025-11-09,Organic,DE,Tier 2,Android,0.0
+ef13f3ff,2025-11-10,Organic,BR,Tier 3,iOS,0.0
+bbdc2c82,2025-10-16,Google Ads,IN,Tier 3,Android,0.41
+ba04f4c0,2025-10-03,Google Ads,DE,Tier 2,iOS,1.02
+c295e611,2025-11-03,Google Ads,BR,Tier 3,iOS,0.33
+504107c5,2025-10-20,Google Ads,KR,Tier 2,Android,1.21
+c1f866ba,2025-11-08,Organic,VN,Tier 3,Android,0.0
+3758d48f,2025-11-29,Facebook Ads,US,Tier 1,Android,2.71
+04bdeb46,2025-10-30,Facebook Ads,DE,Tier 2,iOS,1.59
+87a57547,2025-10-02,Facebook Ads,US,Tier 1,iOS,3.29
+14bf24d8,2025-10-09,Facebook Ads,BR,Tier 3,Android,0.45
+af5f4c03,2025-10-07,Organic,KR,Tier 2,iOS,0.0
+055b96b2,2025-11-12,Unity Ads,VN,Tier 3,Android,0.52
+f1d9952e,2025-10-25,Google Ads,VN,Tier 3,Android,0.37
+e04917e1,2025-11-09,Google Ads,BR,Tier 3,Android,0.17
+c47fba91,2025-10-17,Unity Ads,AU,Tier 1,Android,3.14
+6e079c77,2025-10-10,Google Ads,FR,Tier 2,Android,1.44
+408338ca,2025-10-28,Unity Ads,VN,Tier 3,Android,0.25
+c524f1b2,2025-11-01,Google Ads,FR,Tier 2,Android,1.6
+696131be,2025-11-20,Organic,IN,Tier 3,Android,0.0
+7c019c57,2025-10-12,Organic,IN,Tier 3,iOS,0.0
+63e9a3cc,2025-11-22,Facebook Ads,IN,Tier 3,Android,0.68
+24bc9e66,2025-11-18,Unity Ads,FR,Tier 2,Android,1.28
+a8212a60,2025-11-29,Google Ads,BR,Tier 3,Android,0.1
+cf48d196,2025-11-29,Unity Ads,JP,Tier 2,Android,2.32
+ba55b3ff,2025-10-27,Unity Ads,FR,Tier 2,iOS,1.23
+ce05a468,2025-10-01,Google Ads,DE,Tier 2,iOS,1.26
+052f0c68,2025-10-07,Unity Ads,IN,Tier 3,iOS,0.23
+4c56619e,2025-11-04,Unity Ads,VN,Tier 3,iOS,0.38
+079d7e66,2025-11-01,Google Ads,AU,Tier 1,Android,3.25
+f8eef07d,2025-10-26,Organic,JP,Tier 2,Android,0.0
+8c21c75c,2025-11-15,Facebook Ads,DE,Tier 2,Android,1.43
+630f2b3e,2025-11-18,Unity Ads,IN,Tier 3,Android,0.19
+51d30289,2025-10-24,Google Ads,AU,Tier 1,iOS,4.34
+75bab7f6,2025-11-12,Organic,US,Tier 1,iOS,0.0
+9719ec3b,2025-11-24,Unity Ads,KR,Tier 2,Android,1.84
+e85388a3,2025-11-22,Unity Ads,IN,Tier 3,Android,0.1
+1133c851,2025-10-30,Google Ads,DE,Tier 2,Android,2.16
+0bb90984,2025-11-05,Google Ads,CA,Tier 1,iOS,2.74
+dce01e4a,2025-10-22,Facebook Ads,VN,Tier 3,Android,0.17
+c49e02b4,2025-10-15,Facebook Ads,IN,Tier 3,iOS,0.51
+7486cad3,2025-10-24,Unity Ads,JP,Tier 2,Android,1.54
+e45d35d5,2025-10-28,Facebook Ads,VN,Tier 3,Android,0.39
+4ccb800c,2025-11-18,Facebook Ads,FR,Tier 2,iOS,2.49
+323dc89c,2025-10-21,Unity Ads,PH,Tier 3,iOS,0.28
+822c1d32,2025-11-13,Organic,US,Tier 1,Android,0.0
+ccd31981,2025-10-26,Google Ads,KR,Tier 2,Android,2.14
+7ed6a998,2025-10-29,Facebook Ads,JP,Tier 2,Android,2.24
+68093487,2025-10-13,Unity Ads,VN,Tier 3,Android,0.48
+f803e0b0,2025-11-19,Unity Ads,BR,Tier 3,iOS,0.2
+c03429d7,2025-10-15,Facebook Ads,VN,Tier 3,Android,0.75
+c41b51a2,2025-10-30,Organic,FR,Tier 2,Android,0.0
+fe901cdd,2025-11-15,Organic,IN,Tier 3,Android,0.0
+044001e6,2025-11-05,Facebook Ads,KR,Tier 2,Android,1.66
+199fc492,2025-11-28,Facebook Ads,IN,Tier 3,Android,0.33
+b23f82d0,2025-10-05,Facebook Ads,VN,Tier 3,Android,0.36
+66f71e24,2025-11-18,Organic,IN,Tier 3,iOS,0.0
+35ef1d49,2025-10-24,Google Ads,BR,Tier 3,iOS,0.25
+510d968c,2025-11-08,Google Ads,BR,Tier 3,Android,0.25
+8be223d6,2025-11-07,Unity Ads,DE,Tier 2,Android,2.2
+98e36b0e,2025-10-12,Facebook Ads,FR,Tier 2,iOS,1.14
+37f89f71,2025-10-17,Facebook Ads,DE,Tier 2,iOS,1.04
+36a1c90a,2025-11-29,Unity Ads,DE,Tier 2,iOS,1.95
+bf7fa822,2025-11-21,Google Ads,FR,Tier 2,iOS,1.35
+d2ec380d,2025-11-16,Unity Ads,PH,Tier 3,Android,0.24
+8e7eede3,2025-11-08,Organic,BR,Tier 3,Android,0.0
+63c02073,2025-10-21,Facebook Ads,PH,Tier 3,iOS,0.12
+6c52224a,2025-10-24,Facebook Ads,DE,Tier 2,Android,2.46
+ff86e49a,2025-10-23,Organic,IN,Tier 3,Android,0.0
+e500ecec,2025-11-15,Unity Ads,AU,Tier 1,iOS,4.79
+7e6e51b0,2025-10-16,Google Ads,US,Tier 1,iOS,4.78
+0df36d00,2025-10-28,Facebook Ads,IN,Tier 3,Android,0.47
+a9a8f5c5,2025-10-10,Google Ads,AU,Tier 1,Android,4.82
+8ce421d7,2025-11-15,Facebook Ads,IN,Tier 3,iOS,0.14
+88cebce2,2025-10-06,Google Ads,FR,Tier 2,Android,1.48
+743e6ce4,2025-11-10,Facebook Ads,PH,Tier 3,Android,0.45
+8c1c9999,2025-11-07,Facebook Ads,BR,Tier 3,Android,0.24
+7d1de30e,2025-10-25,Facebook Ads,DE,Tier 2,Android,2.22
+d7c2b733,2025-11-22,Organic,IN,Tier 3,Android,0.0
+872b2a63,2025-11-08,Google Ads,VN,Tier 3,iOS,0.59
+2f155f22,2025-10-15,Unity Ads,JP,Tier 2,Android,1.66
+091b04bf,2025-10-02,Facebook Ads,VN,Tier 3,Android,0.11
+8416c638,2025-11-16,Organic,IN,Tier 3,iOS,0.0
+91f44655,2025-11-25,Facebook Ads,JP,Tier 2,iOS,1.71
+6ae4da74,2025-10-17,Facebook Ads,KR,Tier 2,iOS,2.49
+a92afcc6,2025-11-17,Unity Ads,DE,Tier 2,Android,1.33
+fb22a8c4,2025-10-04,Organic,UK,Tier 1,Android,0.0
+8eb2f267,2025-10-25,Organic,PH,Tier 3,iOS,0.0
+c9ec17ec,2025-10-14,Unity Ads,VN,Tier 3,iOS,0.29
+674ffc46,2025-11-09,Facebook Ads,FR,Tier 2,iOS,1.54
+cc30abf8,2025-10-16,Facebook Ads,UK,Tier 1,Android,2.84
+89c9512a,2025-10-30,Organic,BR,Tier 3,iOS,0.0
+2b8dc68d,2025-11-18,Facebook Ads,VN,Tier 3,Android,0.31
+a0c836ff,2025-11-16,Unity Ads,IN,Tier 3,Android,0.76
+d7ea9b0e,2025-10-19,Organic,DE,Tier 2,iOS,0.0
+d22dd76d,2025-10-05,Organic,JP,Tier 2,Android,0.0
+deee0867,2025-10-31,Google Ads,FR,Tier 2,iOS,1.76
+57e56aed,2025-11-08,Organic,IN,Tier 3,Android,0.0
+4fce34d8,2025-11-20,Unity Ads,FR,Tier 2,iOS,2.04
+e1150e61,2025-10-28,Google Ads,VN,Tier 3,iOS,0.39
+cd837df4,2025-10-16,Google Ads,PH,Tier 3,Android,0.76
+51cad976,2025-10-01,Unity Ads,BR,Tier 3,iOS,0.28
+a2e27670,2025-11-20,Google Ads,VN,Tier 3,Android,0.45
+0db1903a,2025-10-16,Organic,PH,Tier 3,Android,0.0
+11a61411,2025-11-26,Google Ads,AU,Tier 1,iOS,2.89
+62273b66,2025-10-02,Unity Ads,PH,Tier 3,Android,0.31
+c9ff6d85,2025-11-03,Organic,JP,Tier 2,Android,0.0
+d7f58140,2025-11-27,Facebook Ads,BR,Tier 3,iOS,0.79
+55349e50,2025-11-21,Organic,IN,Tier 3,iOS,0.0
+991c98c2,2025-10-13,Unity Ads,JP,Tier 2,Android,1.74
+311c505d,2025-11-05,Unity Ads,JP,Tier 2,Android,1.9
+fab458ed,2025-11-11,Organic,BR,Tier 3,iOS,0.0
+4e84cbd4,2025-10-13,Organic,JP,Tier 2,Android,0.0
+df9f3222,2025-10-12,Organic,FR,Tier 2,iOS,0.0
+18a67f1c,2025-10-01,Unity Ads,JP,Tier 2,Android,1.66
+f86a806f,2025-11-11,Unity Ads,UK,Tier 1,Android,4.16
+dcb04445,2025-11-05,Unity Ads,US,Tier 1,Android,4.96
+431de5d5,2025-11-06,Facebook Ads,PH,Tier 3,iOS,0.15
+4e7899f8,2025-11-26,Organic,BR,Tier 3,Android,0.0
+3d278770,2025-10-31,Facebook Ads,VN,Tier 3,iOS,0.72
+cdd3349e,2025-10-20,Unity Ads,FR,Tier 2,Android,2.24
+7e401a1a,2025-11-01,Google Ads,US,Tier 1,Android,4.55
+1b86daf0,2025-11-25,Unity Ads,DE,Tier 2,Android,1.45
+13b0226e,2025-11-20,Google Ads,PH,Tier 3,Android,0.51
+48060bfc,2025-11-15,Organic,IN,Tier 3,iOS,0.0
+d24fd333,2025-10-15,Facebook Ads,AU,Tier 1,iOS,3.91
+26f397fd,2025-11-28,Organic,KR,Tier 2,Android,0.0
+00263baf,2025-10-10,Google Ads,IN,Tier 3,iOS,0.51
+84c24357,2025-10-08,Google Ads,US,Tier 1,iOS,4.79
+8d826208,2025-10-04,Facebook Ads,AU,Tier 1,Android,4.33
+1d15189d,2025-10-21,Unity Ads,IN,Tier 3,iOS,0.24
+84f92993,2025-11-15,Google Ads,BR,Tier 3,Android,0.65
+f77f22ae,2025-10-29,Unity Ads,DE,Tier 2,iOS,1.13
+fb6e93b4,2025-11-10,Google Ads,VN,Tier 3,iOS,0.42
+5e54d630,2025-11-20,Facebook Ads,AU,Tier 1,iOS,3.52
+de4d56d1,2025-10-27,Google Ads,DE,Tier 2,Android,2.23
+69ac8b37,2025-10-23,Facebook Ads,PH,Tier 3,Android,0.3
+aefe67bd,2025-10-12,Google Ads,VN,Tier 3,Android,0.5
+d3bb760c,2025-11-22,Facebook Ads,FR,Tier 2,iOS,2.29
+059a2fd9,2025-11-19,Facebook Ads,FR,Tier 2,iOS,2.1
+01fdeb11,2025-11-06,Google Ads,VN,Tier 3,Android,0.57
+87899f3a,2025-10-26,Facebook Ads,KR,Tier 2,iOS,1.98
+600da41b,2025-10-17,Facebook Ads,IN,Tier 3,iOS,0.72
+8caba098,2025-11-16,Facebook Ads,VN,Tier 3,iOS,0.61
+5ea9e8a0,2025-10-03,Unity Ads,BR,Tier 3,iOS,0.15
+f8728505,2025-11-09,Organic,UK,Tier 1,iOS,0.0
+f3be21dc,2025-11-05,Facebook Ads,PH,Tier 3,Android,0.57
+73164f02,2025-10-22,Unity Ads,UK,Tier 1,Android,4.92
+c11b6dc0,2025-10-01,Organic,KR,Tier 2,iOS,0.0
+329317f5,2025-10-13,Unity Ads,AU,Tier 1,iOS,4.25
+028faa3a,2025-11-23,Facebook Ads,FR,Tier 2,Android,2.25
+ee5661da,2025-11-14,Unity Ads,UK,Tier 1,Android,2.87
+e37b36de,2025-10-01,Organic,FR,Tier 2,iOS,0.0
+cbe20b6e,2025-10-07,Organic,DE,Tier 2,iOS,0.0
+6c54fa40,2025-11-17,Unity Ads,BR,Tier 3,Android,0.12
+c4558f85,2025-10-22,Google Ads,FR,Tier 2,iOS,1.89
+04d1357c,2025-10-10,Unity Ads,BR,Tier 3,Android,0.75
+729f451a,2025-11-25,Unity Ads,FR,Tier 2,iOS,1.56
+92d9fce0,2025-11-15,Google Ads,FR,Tier 2,iOS,1.5
+b393dccc,2025-11-23,Google Ads,BR,Tier 3,Android,0.72
+9c023ba0,2025-11-16,Unity Ads,BR,Tier 3,Android,0.31
+d11ff117,2025-11-17,Unity Ads,VN,Tier 3,Android,0.56
+e6816c25,2025-11-20,Organic,DE,Tier 2,Android,0.0
+e20556ac,2025-10-12,Google Ads,CA,Tier 1,iOS,3.67
+129763bf,2025-10-01,Organic,JP,Tier 2,iOS,0.0
+e8ab8737,2025-11-07,Organic,VN,Tier 3,Android,0.0
+957b5e81,2025-11-22,Organic,IN,Tier 3,Android,0.0
+0e2dd278,2025-10-21,Organic,PH,Tier 3,iOS,0.0
+2cece665,2025-11-27,Facebook Ads,IN,Tier 3,Android,0.3
+c5a2476d,2025-11-05,Organic,PH,Tier 3,Android,0.0
+b1000afd,2025-11-23,Facebook Ads,VN,Tier 3,Android,0.5
+621b0e5e,2025-10-11,Facebook Ads,CA,Tier 1,iOS,4.4
+00cc48d2,2025-11-04,Unity Ads,IN,Tier 3,iOS,0.35
+494da7be,2025-10-27,Organic,VN,Tier 3,iOS,0.0
+9d515512,2025-11-24,Facebook Ads,VN,Tier 3,Android,0.75
+255a77df,2025-11-22,Organic,UK,Tier 1,Android,0.0
+f5c2774d,2025-11-09,Google Ads,JP,Tier 2,iOS,2.47
+2c03d764,2025-11-22,Facebook Ads,UK,Tier 1,Android,4.84
+139483ec,2025-10-06,Facebook Ads,PH,Tier 3,Android,0.73
+6db2f1e8,2025-10-21,Unity Ads,VN,Tier 3,Android,0.41
+3b32b0d8,2025-11-14,Google Ads,PH,Tier 3,Android,0.64
+31e87077,2025-11-26,Organic,BR,Tier 3,Android,0.0
+4d5d584d,2025-10-01,Facebook Ads,FR,Tier 2,Android,1.08
+9cfb3b29,2025-11-26,Facebook Ads,PH,Tier 3,Android,0.68
+ace1d9d5,2025-11-16,Organic,JP,Tier 2,Android,0.0
+ae3dbc8a,2025-10-18,Unity Ads,BR,Tier 3,iOS,0.52
+23202de0,2025-10-13,Facebook Ads,PH,Tier 3,iOS,0.75
+8df08c4b,2025-11-24,Organic,PH,Tier 3,Android,0.0
+5043b25b,2025-11-09,Facebook Ads,BR,Tier 3,Android,0.33
+268cfab4,2025-10-09,Organic,VN,Tier 3,iOS,0.0
+8ae67361,2025-10-09,Organic,JP,Tier 2,iOS,0.0
+7c631efb,2025-11-24,Organic,FR,Tier 2,iOS,0.0
+5473a71c,2025-11-12,Organic,PH,Tier 3,Android,0.0
+160a74f3,2025-10-21,Organic,CA,Tier 1,Android,0.0
+3de714e8,2025-10-05,Google Ads,IN,Tier 3,iOS,0.29
+8e69f61b,2025-10-16,Unity Ads,PH,Tier 3,iOS,0.54
+51fb31f1,2025-10-08,Google Ads,IN,Tier 3,iOS,0.29
+09ec5a22,2025-11-20,Unity Ads,PH,Tier 3,Android,0.3
+5253505d,2025-10-17,Facebook Ads,VN,Tier 3,Android,0.51
+7800f609,2025-11-18,Facebook Ads,KR,Tier 2,iOS,2.33
+181ab373,2025-11-20,Unity Ads,AU,Tier 1,iOS,3.35
+f8dcb314,2025-10-24,Unity Ads,US,Tier 1,Android,3.09
+3d6ad6e6,2025-11-11,Unity Ads,PH,Tier 3,Android,0.65
+b3f9a60f,2025-10-15,Facebook Ads,PH,Tier 3,iOS,0.23
+9adb1d0c,2025-10-22,Facebook Ads,VN,Tier 3,Android,0.14
+2423baa8,2025-11-17,Organic,CA,Tier 1,Android,0.0
+be533924,2025-11-29,Facebook Ads,IN,Tier 3,iOS,0.24
+da955f2d,2025-11-15,Facebook Ads,FR,Tier 2,Android,1.69
+c3697eeb,2025-10-30,Google Ads,BR,Tier 3,iOS,0.7
+904b8f79,2025-10-21,Unity Ads,VN,Tier 3,iOS,0.56
+acffd331,2025-11-13,Organic,PH,Tier 3,Android,0.0
+d525f1e2,2025-10-08,Facebook Ads,IN,Tier 3,iOS,0.78
+357f8447,2025-11-04,Google Ads,CA,Tier 1,iOS,3.85
+3a229c61,2025-11-15,Facebook Ads,IN,Tier 3,iOS,0.62
+7440dda4,2025-11-28,Organic,JP,Tier 2,Android,0.0
+29fb56e8,2025-11-03,Organic,PH,Tier 3,iOS,0.0
+51fae0f8,2025-10-21,Organic,BR,Tier 3,Android,0.0
+42c07f57,2025-10-09,Organic,BR,Tier 3,Android,0.0
+be617cd3,2025-10-26,Organic,BR,Tier 3,iOS,0.0
+746c722d,2025-11-02,Facebook Ads,IN,Tier 3,iOS,0.2
+abb1dbf4,2025-11-08,Facebook Ads,JP,Tier 2,iOS,2.16
+974ce47e,2025-10-06,Organic,JP,Tier 2,Android,0.0
+6984ea8e,2025-10-27,Unity Ads,BR,Tier 3,Android,0.18
+8adc7f77,2025-10-25,Unity Ads,BR,Tier 3,Android,0.78
+bbe40fe3,2025-10-13,Organic,PH,Tier 3,iOS,0.0
+e353f5dd,2025-11-21,Google Ads,CA,Tier 1,Android,3.12
+347a425d,2025-10-22,Organic,CA,Tier 1,Android,0.0
+7d901de3,2025-10-31,Organic,IN,Tier 3,Android,0.0
+111fa6d4,2025-10-04,Organic,FR,Tier 2,iOS,0.0
+a835e367,2025-10-29,Organic,UK,Tier 1,iOS,0.0
+87bf689c,2025-10-28,Facebook Ads,FR,Tier 2,Android,1.49
+cb140b27,2025-11-03,Google Ads,JP,Tier 2,Android,1.9
+186d5e39,2025-11-21,Facebook Ads,US,Tier 1,iOS,4.96
+cb4cdf10,2025-11-17,Unity Ads,FR,Tier 2,iOS,2.48
+87a55aa4,2025-10-14,Organic,IN,Tier 3,Android,0.0
+c193abc9,2025-11-13,Unity Ads,JP,Tier 2,iOS,1.47
+5c3242f4,2025-10-25,Google Ads,JP,Tier 2,Android,1.58
+7424a9e4,2025-10-02,Organic,JP,Tier 2,iOS,0.0
+752cc39a,2025-10-12,Organic,PH,Tier 3,iOS,0.0
+14ec838f,2025-11-27,Unity Ads,VN,Tier 3,Android,0.17
+c5d6eb5b,2025-11-25,Facebook Ads,VN,Tier 3,Android,0.2
+cf1838c9,2025-11-20,Google Ads,DE,Tier 2,iOS,1.85
+0ad9c389,2025-10-29,Google Ads,KR,Tier 2,iOS,2.16
+ff3da311,2025-10-05,Organic,PH,Tier 3,iOS,0.0
+80f3e048,2025-11-04,Facebook Ads,BR,Tier 3,Android,0.39
+06a1d537,2025-10-19,Google Ads,VN,Tier 3,Android,0.43
+87d7e159,2025-11-28,Organic,AU,Tier 1,Android,0.0
+9c489cdd,2025-11-17,Google Ads,FR,Tier 2,Android,2.48
+d68ccee8,2025-11-11,Organic,DE,Tier 2,iOS,0.0
+108373b1,2025-10-01,Organic,US,Tier 1,Android,0.0
+e79204f7,2025-10-24,Facebook Ads,BR,Tier 3,Android,0.18
+2c9506fc,2025-11-12,Organic,IN,Tier 3,Android,0.0
+4393cc79,2025-11-29,Google Ads,BR,Tier 3,Android,0.19
+e454aba0,2025-11-17,Unity Ads,AU,Tier 1,iOS,4.22
+6857a819,2025-10-05,Facebook Ads,IN,Tier 3,Android,0.64
+4e6ccfb0,2025-10-24,Google Ads,AU,Tier 1,Android,3.09
+f2992d5c,2025-11-29,Google Ads,JP,Tier 2,Android,2.09
+850a0653,2025-11-14,Unity Ads,VN,Tier 3,iOS,0.5
+67ebaf71,2025-10-16,Unity Ads,VN,Tier 3,iOS,0.51
+ebeb1a48,2025-10-24,Facebook Ads,DE,Tier 2,iOS,1.82
+d42074a5,2025-10-11,Unity Ads,FR,Tier 2,Android,2.34
+1b50fd92,2025-11-07,Unity Ads,IN,Tier 3,iOS,0.5
+a610c845,2025-11-24,Google Ads,VN,Tier 3,Android,0.65
+4815e460,2025-10-10,Facebook Ads,KR,Tier 2,iOS,2.01
+969e96b7,2025-10-06,Facebook Ads,BR,Tier 3,iOS,0.65
+49b779e3,2025-10-08,Organic,BR,Tier 3,Android,0.0
+a425cc60,2025-11-23,Organic,PH,Tier 3,iOS,0.0
+47580b5a,2025-11-14,Organic,IN,Tier 3,iOS,0.0
+9533a5de,2025-11-29,Facebook Ads,BR,Tier 3,iOS,0.4
+5d84288b,2025-11-28,Facebook Ads,JP,Tier 2,Android,1.86
+9d5aaa9d,2025-10-07,Unity Ads,DE,Tier 2,iOS,1.72
+e699050b,2025-11-23,Organic,KR,Tier 2,iOS,0.0
+815bce91,2025-11-28,Facebook Ads,IN,Tier 3,Android,0.42
+953de9be,2025-11-18,Facebook Ads,AU,Tier 1,iOS,4.28
+5d147e87,2025-11-16,Organic,FR,Tier 2,iOS,0.0
+005d1043,2025-10-17,Google Ads,FR,Tier 2,iOS,2.18
+6b10af68,2025-10-03,Facebook Ads,IN,Tier 3,iOS,0.79
+0f47cff0,2025-10-04,Unity Ads,IN,Tier 3,Android,0.77
+6300bbdc,2025-11-21,Unity Ads,JP,Tier 2,Android,2.38
+9f9eba7f,2025-11-26,Organic,AU,Tier 1,Android,0.0
+139e9880,2025-11-25,Google Ads,PH,Tier 3,iOS,0.51
+13ec94ae,2025-11-14,Facebook Ads,JP,Tier 2,Android,1.31
+f042c109,2025-10-21,Facebook Ads,KR,Tier 2,iOS,1.52
+e3ad0368,2025-10-09,Google Ads,VN,Tier 3,iOS,0.39
+a854b365,2025-11-26,Google Ads,IN,Tier 3,Android,0.44
+f6af72d2,2025-11-21,Unity Ads,DE,Tier 2,iOS,1.85
+1fa18448,2025-11-27,Unity Ads,KR,Tier 2,Android,1.87
+75a617fc,2025-10-29,Google Ads,FR,Tier 2,iOS,1.95
+cefc628a,2025-11-23,Unity Ads,BR,Tier 3,iOS,0.38
+ede1af85,2025-11-22,Facebook Ads,FR,Tier 2,Android,1.02
+b5327e74,2025-11-18,Organic,PH,Tier 3,Android,0.0
+02ba469b,2025-11-02,Facebook Ads,FR,Tier 2,Android,1.53
+b66a32ce,2025-10-28,Facebook Ads,PH,Tier 3,Android,0.66
+976a6620,2025-11-08,Facebook Ads,FR,Tier 2,iOS,1.08
+b4337701,2025-10-29,Unity Ads,BR,Tier 3,Android,0.53
+4335eb48,2025-10-06,Facebook Ads,AU,Tier 1,iOS,3.73
+2efaf1fe,2025-10-06,Facebook Ads,IN,Tier 3,iOS,0.59
+4a047074,2025-11-26,Unity Ads,BR,Tier 3,iOS,0.47
+16d7405b,2025-11-18,Google Ads,KR,Tier 2,Android,1.44
+d46e45d4,2025-11-23,Unity Ads,KR,Tier 2,iOS,2.43
+125be24e,2025-11-18,Organic,UK,Tier 1,iOS,0.0
+350b1c85,2025-10-06,Facebook Ads,CA,Tier 1,iOS,3.25
+b23f18c8,2025-10-31,Organic,DE,Tier 2,Android,0.0
+59e5441a,2025-11-18,Unity Ads,IN,Tier 3,iOS,0.41
+0e5cd86f,2025-10-15,Facebook Ads,IN,Tier 3,Android,0.36
+b869a468,2025-10-04,Facebook Ads,VN,Tier 3,iOS,0.72
+01505387,2025-11-02,Facebook Ads,CA,Tier 1,iOS,4.06
+9c27a384,2025-10-19,Facebook Ads,KR,Tier 2,Android,1.92
+5532c153,2025-10-13,Unity Ads,PH,Tier 3,iOS,0.67
+4ba499e2,2025-11-25,Facebook Ads,CA,Tier 1,Android,4.89
+d0c1d541,2025-10-17,Facebook Ads,PH,Tier 3,iOS,0.36
+3dd58f27,2025-10-02,Unity Ads,JP,Tier 2,Android,1.7
+4a45e937,2025-10-27,Unity Ads,UK,Tier 1,Android,2.52
+915f3c2c,2025-10-30,Unity Ads,BR,Tier 3,Android,0.67
+fea2af66,2025-10-07,Facebook Ads,DE,Tier 2,Android,2.37
+003fb556,2025-10-12,Facebook Ads,FR,Tier 2,Android,1.96
+92a38e4a,2025-11-23,Facebook Ads,AU,Tier 1,iOS,3.58
+2edecb58,2025-10-05,Unity Ads,BR,Tier 3,iOS,0.71
+19b6cfa0,2025-10-30,Google Ads,CA,Tier 1,Android,3.21
+a4116e8c,2025-11-12,Facebook Ads,CA,Tier 1,Android,3.66
+19775354,2025-10-02,Unity Ads,BR,Tier 3,iOS,0.28
+c97b9e91,2025-10-21,Google Ads,JP,Tier 2,Android,2.24
+44aff47e,2025-11-20,Facebook Ads,VN,Tier 3,iOS,0.35
+123973e6,2025-10-02,Unity Ads,IN,Tier 3,iOS,0.68
+87931b6c,2025-11-17,Organic,JP,Tier 2,iOS,0.0
+42e7d65b,2025-11-09,Facebook Ads,VN,Tier 3,Android,0.58
+7f449e0e,2025-11-22,Unity Ads,VN,Tier 3,iOS,0.75
+6319a158,2025-10-30,Organic,KR,Tier 2,iOS,0.0
+481a9d29,2025-11-10,Google Ads,PH,Tier 3,iOS,0.22
+2ef16d54,2025-10-05,Organic,IN,Tier 3,iOS,0.0
+183d9661,2025-10-24,Google Ads,BR,Tier 3,iOS,0.76
+549c87cf,2025-11-21,Unity Ads,PH,Tier 3,Android,0.63
+5d74de37,2025-10-27,Facebook Ads,VN,Tier 3,Android,0.62
+bcec3775,2025-10-31,Google Ads,US,Tier 1,Android,2.7
+04f3164e,2025-10-30,Google Ads,IN,Tier 3,Android,0.63
+26278a7a,2025-11-25,Google Ads,IN,Tier 3,Android,0.14
+0837ac5e,2025-10-24,Organic,PH,Tier 3,iOS,0.0
+e1b24478,2025-11-21,Unity Ads,BR,Tier 3,Android,0.66
+c098645c,2025-10-19,Unity Ads,FR,Tier 2,iOS,2.19
+6a7fbb9a,2025-10-06,Organic,PH,Tier 3,iOS,0.0
+40356d75,2025-10-13,Organic,KR,Tier 2,Android,0.0
+77da1514,2025-10-05,Unity Ads,VN,Tier 3,iOS,0.32
+95473ea3,2025-10-27,Facebook Ads,CA,Tier 1,Android,3.89
+ce5d37eb,2025-11-29,Organic,IN,Tier 3,Android,0.0
+e7395f9a,2025-10-19,Organic,VN,Tier 3,Android,0.0
+2ae75799,2025-10-08,Facebook Ads,BR,Tier 3,Android,0.32
+5f433d81,2025-11-01,Facebook Ads,BR,Tier 3,iOS,0.68
+5aff9564,2025-11-29,Unity Ads,BR,Tier 3,Android,0.38
+373ecb14,2025-10-19,Organic,VN,Tier 3,Android,0.0
+b1e48f45,2025-10-03,Unity Ads,IN,Tier 3,iOS,0.29
+947cb689,2025-11-07,Facebook Ads,JP,Tier 2,Android,2.24
+ae0c3f44,2025-10-31,Unity Ads,VN,Tier 3,iOS,0.15
+6d4817c4,2025-11-23,Unity Ads,PH,Tier 3,iOS,0.69
+4cbd5290,2025-11-23,Organic,FR,Tier 2,iOS,0.0
+4f3934df,2025-10-30,Facebook Ads,PH,Tier 3,Android,0.18
+a7195172,2025-11-25,Google Ads,AU,Tier 1,iOS,3.47
+5af49fc8,2025-11-29,Google Ads,VN,Tier 3,iOS,0.15
+6abae743,2025-11-02,Facebook Ads,KR,Tier 2,Android,1.69
+47566a59,2025-10-06,Google Ads,PH,Tier 3,iOS,0.22
+2b46a5ff,2025-10-16,Google Ads,PH,Tier 3,iOS,0.42
+88ae55f2,2025-11-18,Facebook Ads,BR,Tier 3,Android,0.19
+19697bc1,2025-11-16,Facebook Ads,JP,Tier 2,iOS,1.94
+9ce4f65e,2025-11-11,Google Ads,CA,Tier 1,Android,2.54
+9d499ed9,2025-10-14,Google Ads,KR,Tier 2,iOS,1.01
+9f13bce0,2025-11-09,Organic,IN,Tier 3,Android,0.0
+0dd5e52e,2025-11-21,Unity Ads,JP,Tier 2,iOS,2.04
+ded1a92f,2025-11-04,Unity Ads,DE,Tier 2,iOS,1.86
+f1cfe9a0,2025-11-26,Unity Ads,IN,Tier 3,iOS,0.24
+972c53f7,2025-10-28,Unity Ads,IN,Tier 3,Android,0.54
+ff772281,2025-10-22,Organic,IN,Tier 3,iOS,0.0
+0ac9afd8,2025-11-10,Facebook Ads,VN,Tier 3,iOS,0.29
+1b5c230e,2025-10-22,Facebook Ads,CA,Tier 1,Android,3.0
+0f3daeee,2025-10-29,Unity Ads,IN,Tier 3,iOS,0.41
+6bf923e3,2025-10-08,Unity Ads,BR,Tier 3,iOS,0.25
+d2e3de92,2025-11-01,Facebook Ads,VN,Tier 3,iOS,0.77
+d77c90e1,2025-11-11,Google Ads,UK,Tier 1,Android,2.84
+a4971a05,2025-11-19,Facebook Ads,VN,Tier 3,iOS,0.4
+fe64290d,2025-11-06,Facebook Ads,UK,Tier 1,Android,4.51
+d65b59fd,2025-10-29,Organic,FR,Tier 2,Android,0.0
+b18a2305,2025-11-12,Google Ads,UK,Tier 1,iOS,4.45
+6190e8a7,2025-10-25,Facebook Ads,IN,Tier 3,Android,0.14
+67027948,2025-11-11,Google Ads,IN,Tier 3,iOS,0.28
+0e5287a1,2025-11-20,Unity Ads,JP,Tier 2,iOS,1.84
+738f89b7,2025-10-15,Google Ads,VN,Tier 3,iOS,0.12
+d1aff472,2025-10-26,Facebook Ads,UK,Tier 1,iOS,3.04
+3e77a266,2025-11-12,Facebook Ads,PH,Tier 3,Android,0.54
+bc0cfe79,2025-10-29,Unity Ads,US,Tier 1,Android,3.74
+29c895a2,2025-11-06,Google Ads,BR,Tier 3,Android,0.51
+eefc9eec,2025-11-01,Google Ads,PH,Tier 3,Android,0.43
+d76e4c5e,2025-11-07,Google Ads,IN,Tier 3,Android,0.78
+ed747328,2025-10-05,Facebook Ads,BR,Tier 3,iOS,0.48
+2f5fcb5a,2025-11-22,Organic,PH,Tier 3,iOS,0.0
+4dbfa941,2025-10-02,Facebook Ads,IN,Tier 3,iOS,0.13
+dc1c017b,2025-10-05,Unity Ads,KR,Tier 2,Android,1.67
+2939db9c,2025-10-06,Organic,CA,Tier 1,Android,0.0
+198b392b,2025-10-04,Organic,VN,Tier 3,iOS,0.0
+c3b2d334,2025-10-15,Organic,CA,Tier 1,iOS,0.0
+25b0a07a,2025-10-29,Facebook Ads,JP,Tier 2,Android,2.23
+c9245ea6,2025-11-21,Google Ads,CA,Tier 1,iOS,3.15
+6790def2,2025-10-29,Unity Ads,BR,Tier 3,Android,0.17
+9964e37b,2025-11-27,Unity Ads,DE,Tier 2,iOS,1.11
+1913c21f,2025-11-11,Google Ads,JP,Tier 2,Android,2.49
+9d1cde9c,2025-10-16,Organic,VN,Tier 3,iOS,0.0
+6a8605d8,2025-10-07,Organic,BR,Tier 3,iOS,0.0
+0b5814be,2025-10-08,Unity Ads,KR,Tier 2,Android,2.37
+b0b31a41,2025-10-14,Unity Ads,KR,Tier 2,iOS,2.39
+c6dfb771,2025-11-01,Organic,BR,Tier 3,iOS,0.0
+41560e75,2025-11-20,Facebook Ads,JP,Tier 2,iOS,2.14
+b5e79c02,2025-10-12,Unity Ads,UK,Tier 1,iOS,4.06
+3a97c427,2025-10-04,Unity Ads,VN,Tier 3,iOS,0.25
+8175c340,2025-11-04,Organic,PH,Tier 3,iOS,0.0
+e7ffcb17,2025-11-24,Organic,VN,Tier 3,Android,0.0
+c3cdb51f,2025-10-13,Facebook Ads,IN,Tier 3,Android,0.32
+ec38c0cd,2025-10-01,Google Ads,BR,Tier 3,Android,0.26
+41a3b1e3,2025-11-29,Facebook Ads,JP,Tier 2,Android,1.89
+2317bc14,2025-11-29,Facebook Ads,AU,Tier 1,Android,2.78
+c6e9246e,2025-10-28,Facebook Ads,VN,Tier 3,Android,0.11
+b1cf6836,2025-10-25,Organic,PH,Tier 3,iOS,0.0
+76b479ca,2025-10-24,Organic,PH,Tier 3,iOS,0.0
+99d6f076,2025-10-07,Google Ads,DE,Tier 2,Android,1.91
+3ad3867f,2025-11-04,Organic,IN,Tier 3,iOS,0.0
+08d70747,2025-10-07,Google Ads,BR,Tier 3,Android,0.2
+cfe9df09,2025-10-10,Organic,PH,Tier 3,Android,0.0
+1634bdf9,2025-10-25,Unity Ads,PH,Tier 3,iOS,0.77
+56d3230d,2025-10-22,Unity Ads,PH,Tier 3,iOS,0.15
+de67cefc,2025-10-21,Google Ads,PH,Tier 3,Android,0.75
+4aa1ac9e,2025-11-25,Google Ads,FR,Tier 2,Android,1.93
+d3e0cacb,2025-11-01,Unity Ads,KR,Tier 2,iOS,2.24
+9bcc5c43,2025-11-13,Organic,CA,Tier 1,iOS,0.0
+7d1662cc,2025-10-22,Unity Ads,BR,Tier 3,iOS,0.74
+54f0be0f,2025-11-25,Unity Ads,BR,Tier 3,iOS,0.79
+567e60a8,2025-11-16,Unity Ads,UK,Tier 1,iOS,4.79
+afd035ad,2025-10-26,Google Ads,BR,Tier 3,Android,0.79
+4a04d77b,2025-11-17,Google Ads,FR,Tier 2,iOS,1.27
+ef054b94,2025-11-09,Unity Ads,PH,Tier 3,iOS,0.25
+e1b0a6e5,2025-11-20,Organic,DE,Tier 2,iOS,0.0
+6fd220c5,2025-11-08,Facebook Ads,CA,Tier 1,Android,3.04
+60d6bbb0,2025-10-28,Organic,IN,Tier 3,Android,0.0
+9d695a18,2025-10-03,Organic,JP,Tier 2,Android,0.0
+2cf9a87e,2025-10-30,Google Ads,VN,Tier 3,Android,0.68
+7fe1d596,2025-11-12,Facebook Ads,AU,Tier 1,iOS,3.69
+b7e1e75e,2025-10-18,Unity Ads,VN,Tier 3,iOS,0.26
+5fb1d06f,2025-11-03,Google Ads,FR,Tier 2,Android,2.3
+00a0b2c3,2025-10-28,Organic,IN,Tier 3,Android,0.0
+76630f28,2025-10-01,Unity Ads,FR,Tier 2,Android,1.27
+2b19cb78,2025-10-10,Unity Ads,UK,Tier 1,Android,2.8
+cdc32ce6,2025-11-17,Facebook Ads,VN,Tier 3,Android,0.52
+ed0a946c,2025-11-17,Facebook Ads,UK,Tier 1,iOS,4.59
+07037de2,2025-11-26,Organic,KR,Tier 2,Android,0.0
+c0756cb2,2025-10-29,Unity Ads,DE,Tier 2,Android,1.34
+864b95b4,2025-10-12,Organic,DE,Tier 2,Android,0.0
+50fa03ff,2025-11-22,Facebook Ads,KR,Tier 2,iOS,1.81
+7dfc30e6,2025-11-27,Facebook Ads,CA,Tier 1,iOS,2.83
+f61962e7,2025-11-04,Facebook Ads,US,Tier 1,iOS,4.38
+4c325885,2025-11-17,Organic,BR,Tier 3,Android,0.0
+549d71db,2025-10-05,Unity Ads,BR,Tier 3,Android,0.55
+49e6a311,2025-10-23,Unity Ads,US,Tier 1,iOS,3.57
+e7f48ca3,2025-11-29,Google Ads,KR,Tier 2,Android,1.01
+2986b1cb,2025-11-21,Google Ads,PH,Tier 3,iOS,0.58
+9674d8c8,2025-11-22,Facebook Ads,JP,Tier 2,Android,1.99
+bf003b6c,2025-11-27,Facebook Ads,US,Tier 1,Android,4.55
+7861948d,2025-10-05,Unity Ads,JP,Tier 2,Android,1.69
+c574214b,2025-10-02,Facebook Ads,KR,Tier 2,Android,1.2
+fbd1c0d0,2025-10-29,Unity Ads,BR,Tier 3,Android,0.57
+471cddc3,2025-11-20,Organic,UK,Tier 1,Android,0.0
+3a7942d1,2025-11-04,Google Ads,BR,Tier 3,iOS,0.51
+e5ea1b1f,2025-10-15,Organic,KR,Tier 2,Android,0.0
+414d2180,2025-11-04,Organic,JP,Tier 2,Android,0.0
+302bc6fc,2025-10-21,Facebook Ads,VN,Tier 3,iOS,0.77
+6f347210,2025-10-06,Unity Ads,BR,Tier 3,iOS,0.26
+153f641f,2025-11-16,Organic,PH,Tier 3,Android,0.0
+350c1ba8,2025-10-20,Facebook Ads,PH,Tier 3,Android,0.48
+ad72dcc0,2025-10-26,Organic,FR,Tier 2,Android,0.0
+76e6989e,2025-11-03,Organic,PH,Tier 3,iOS,0.0
+fb5459ac,2025-10-20,Unity Ads,DE,Tier 2,iOS,1.62
+cb97ec6e,2025-10-31,Google Ads,KR,Tier 2,Android,1.4
+c0e0d7c6,2025-10-19,Unity Ads,PH,Tier 3,iOS,0.61
+dce1d629,2025-10-22,Facebook Ads,KR,Tier 2,iOS,1.1
+59465168,2025-10-11,Organic,BR,Tier 3,Android,0.0
+9b3779f3,2025-10-23,Facebook Ads,IN,Tier 3,iOS,0.75
+b7cddb42,2025-10-03,Facebook Ads,VN,Tier 3,iOS,0.59
+30cd8148,2025-10-16,Google Ads,PH,Tier 3,iOS,0.24
+567aa627,2025-10-14,Organic,KR,Tier 2,Android,0.0
+12f10234,2025-10-23,Google Ads,AU,Tier 1,iOS,4.0
+bec9eb48,2025-11-21,Unity Ads,IN,Tier 3,iOS,0.36
+e8aa7cd3,2025-10-13,Unity Ads,KR,Tier 2,Android,1.77
+29172df8,2025-11-11,Unity Ads,PH,Tier 3,Android,0.53
+6d417f40,2025-11-01,Organic,IN,Tier 3,iOS,0.0
+656b2022,2025-11-03,Facebook Ads,PH,Tier 3,Android,0.4
+98815fef,2025-10-06,Unity Ads,UK,Tier 1,Android,4.74
+d9248f37,2025-10-21,Google Ads,JP,Tier 2,Android,1.04
+c10dcda6,2025-10-13,Unity Ads,UK,Tier 1,iOS,3.33
+a18d8d8f,2025-11-18,Organic,PH,Tier 3,Android,0.0
+af42b37f,2025-11-13,Organic,PH,Tier 3,Android,0.0
+d8ff1d60,2025-10-30,Google Ads,IN,Tier 3,iOS,0.16
+ad18e6a0,2025-10-09,Unity Ads,DE,Tier 2,Android,1.9
+11f881db,2025-10-22,Organic,FR,Tier 2,iOS,0.0
+a93d2380,2025-11-24,Google Ads,US,Tier 1,iOS,4.26
+b6852325,2025-11-18,Facebook Ads,PH,Tier 3,Android,0.47
+c026c514,2025-11-13,Organic,BR,Tier 3,Android,0.0
+007eedea,2025-11-23,Google Ads,IN,Tier 3,iOS,0.63
+3e9b7e9d,2025-10-02,Facebook Ads,KR,Tier 2,Android,1.59
+7992e40a,2025-10-06,Facebook Ads,US,Tier 1,Android,3.12
+2e86d359,2025-11-04,Facebook Ads,PH,Tier 3,iOS,0.17
+537eda30,2025-10-10,Google Ads,VN,Tier 3,Android,0.8
+22271db3,2025-11-29,Organic,IN,Tier 3,Android,0.0
+cde3efa0,2025-10-25,Unity Ads,IN,Tier 3,Android,0.12
+c4afdb1c,2025-11-12,Facebook Ads,BR,Tier 3,iOS,0.75
+3ea154ab,2025-10-29,Facebook Ads,JP,Tier 2,iOS,1.96
+82ab26b7,2025-10-17,Facebook Ads,UK,Tier 1,iOS,4.96
+608dad23,2025-10-06,Facebook Ads,DE,Tier 2,Android,1.91
+dd464bac,2025-11-28,Unity Ads,IN,Tier 3,Android,0.67
+0babca84,2025-10-12,Google Ads,FR,Tier 2,iOS,1.24
+c933c39f,2025-10-27,Unity Ads,KR,Tier 2,iOS,2.15
+17e461fe,2025-11-02,Facebook Ads,BR,Tier 3,iOS,0.4
+44fcdc17,2025-11-18,Google Ads,IN,Tier 3,iOS,0.14
+96e57df1,2025-10-04,Unity Ads,CA,Tier 1,Android,2.76
+b5b87b28,2025-11-02,Facebook Ads,PH,Tier 3,Android,0.76
+6691e060,2025-11-03,Unity Ads,VN,Tier 3,iOS,0.17
+4455e81f,2025-11-14,Google Ads,KR,Tier 2,iOS,1.25
+15133c37,2025-11-23,Organic,BR,Tier 3,iOS,0.0
+2f1b2acd,2025-10-11,Organic,VN,Tier 3,Android,0.0
+4973b2d4,2025-11-16,Google Ads,KR,Tier 2,Android,1.75
+a5ab5e96,2025-10-20,Facebook Ads,BR,Tier 3,Android,0.51
+c56dd99f,2025-10-21,Facebook Ads,JP,Tier 2,Android,1.65
+82b46a59,2025-10-09,Facebook Ads,KR,Tier 2,Android,2.4
+49782f31,2025-10-01,Organic,IN,Tier 3,iOS,0.0
+92b57431,2025-10-20,Facebook Ads,KR,Tier 2,Android,1.15
+26674b3b,2025-10-24,Organic,IN,Tier 3,Android,0.0
+e611f077,2025-10-30,Organic,KR,Tier 2,iOS,0.0
+10873b93,2025-10-11,Unity Ads,VN,Tier 3,Android,0.54
+66adfc40,2025-11-20,Unity Ads,PH,Tier 3,iOS,0.21
+507f01df,2025-11-19,Unity Ads,UK,Tier 1,Android,3.99
+0bdd2a24,2025-11-08,Facebook Ads,VN,Tier 3,iOS,0.28
+8e15eea8,2025-11-11,Facebook Ads,VN,Tier 3,Android,0.11
+86a4b875,2025-11-07,Unity Ads,FR,Tier 2,Android,2.28
+b96d9ebb,2025-11-16,Facebook Ads,VN,Tier 3,iOS,0.17
+96da69c2,2025-10-16,Unity Ads,PH,Tier 3,Android,0.72
+c466ec8e,2025-11-23,Google Ads,VN,Tier 3,Android,0.13
+a48024e6,2025-11-28,Organic,UK,Tier 1,Android,0.0
+2b599e7c,2025-11-19,Google Ads,PH,Tier 3,Android,0.38
+1be2a383,2025-11-03,Organic,BR,Tier 3,iOS,0.0
+27550f6d,2025-10-31,Unity Ads,BR,Tier 3,Android,0.35
+96e745de,2025-11-02,Google Ads,JP,Tier 2,iOS,1.14
+e253390b,2025-10-19,Facebook Ads,IN,Tier 3,Android,0.23
+184085c0,2025-10-15,Google Ads,DE,Tier 2,iOS,1.6
+80f04015,2025-10-12,Google Ads,VN,Tier 3,Android,0.68
+9d90d2a2,2025-11-18,Facebook Ads,VN,Tier 3,iOS,0.64
+05d26173,2025-10-27,Unity Ads,US,Tier 1,Android,4.6
+a581c3b9,2025-10-09,Organic,DE,Tier 2,iOS,0.0
+d295d43a,2025-10-08,Organic,IN,Tier 3,Android,0.0
+7ef672c3,2025-10-26,Facebook Ads,FR,Tier 2,Android,1.33
+f3f5f5f3,2025-11-05,Unity Ads,KR,Tier 2,Android,1.4
+dda9347c,2025-10-14,Organic,US,Tier 1,iOS,0.0
+ddbfd4db,2025-10-13,Unity Ads,PH,Tier 3,iOS,0.31
+3fe1105f,2025-11-15,Google Ads,KR,Tier 2,iOS,2.39
+cbfbf594,2025-10-15,Unity Ads,VN,Tier 3,iOS,0.16
+f2b7d777,2025-10-29,Unity Ads,PH,Tier 3,Android,0.29
+0829100a,2025-10-23,Facebook Ads,CA,Tier 1,Android,3.68
+caa2199f,2025-10-01,Facebook Ads,BR,Tier 3,iOS,0.76
+a3c1af23,2025-11-07,Organic,VN,Tier 3,iOS,0.0
+67df606c,2025-10-27,Unity Ads,CA,Tier 1,Android,3.0
+8869a6b8,2025-11-15,Facebook Ads,VN,Tier 3,iOS,0.27
+6146e98a,2025-11-09,Unity Ads,BR,Tier 3,iOS,0.18
+c8f6fe08,2025-11-01,Facebook Ads,KR,Tier 2,Android,1.95
+dcdaf8ef,2025-10-04,Facebook Ads,KR,Tier 2,iOS,2.15
+2ab8b9a6,2025-10-24,Unity Ads,VN,Tier 3,Android,0.72
+1ab75c92,2025-11-27,Facebook Ads,JP,Tier 2,iOS,2.37
+e4f97955,2025-11-21,Facebook Ads,VN,Tier 3,Android,0.52
+f25e72a6,2025-10-09,Organic,BR,Tier 3,iOS,0.0
+72b18001,2025-10-12,Facebook Ads,PH,Tier 3,Android,0.69
+4b663d71,2025-11-10,Facebook Ads,VN,Tier 3,iOS,0.52
+3f970566,2025-10-21,Organic,IN,Tier 3,Android,0.0
+6e3b0125,2025-10-29,Google Ads,JP,Tier 2,iOS,2.12
+1075406e,2025-10-16,Facebook Ads,JP,Tier 2,iOS,1.51
+927db543,2025-10-13,Facebook Ads,DE,Tier 2,Android,2.09
+2200b29b,2025-11-24,Organic,US,Tier 1,iOS,0.0
+bd32b4fa,2025-11-02,Facebook Ads,AU,Tier 1,iOS,3.13
+3fa363ab,2025-11-09,Unity Ads,JP,Tier 2,iOS,2.05
+4fcb475c,2025-11-16,Facebook Ads,VN,Tier 3,iOS,0.75
+226d3a79,2025-10-08,Google Ads,CA,Tier 1,iOS,4.98
+7645050e,2025-10-29,Organic,VN,Tier 3,iOS,0.0
+62123e42,2025-11-21,Organic,VN,Tier 3,iOS,0.0
+2ee67bf8,2025-11-11,Google Ads,VN,Tier 3,iOS,0.77
+c7dadecf,2025-11-12,Facebook Ads,VN,Tier 3,iOS,0.36
+e1d35266,2025-11-13,Facebook Ads,BR,Tier 3,Android,0.57
+5a860bf2,2025-11-25,Unity Ads,IN,Tier 3,iOS,0.22
+55b5806b,2025-11-12,Facebook Ads,IN,Tier 3,iOS,0.2
+591f85f0,2025-11-15,Unity Ads,US,Tier 1,Android,4.91
+60134721,2025-11-19,Facebook Ads,JP,Tier 2,iOS,1.66
+0b5b05aa,2025-10-29,Organic,JP,Tier 2,iOS,0.0
+08d7ef46,2025-10-03,Facebook Ads,DE,Tier 2,iOS,1.85
+9e090e84,2025-11-08,Google Ads,BR,Tier 3,iOS,0.26
+471a45f4,2025-11-15,Facebook Ads,UK,Tier 1,Android,3.85
+2974a385,2025-11-29,Organic,PH,Tier 3,iOS,0.0
+1b7c7be9,2025-10-03,Google Ads,FR,Tier 2,iOS,2.33
+62487319,2025-10-09,Facebook Ads,US,Tier 1,iOS,3.4
+3d758fe9,2025-10-22,Google Ads,AU,Tier 1,Android,3.6
+bde6e427,2025-10-15,Unity Ads,UK,Tier 1,iOS,3.35
+496a23cb,2025-11-08,Facebook Ads,VN,Tier 3,iOS,0.28
+a7f0bdd7,2025-11-16,Facebook Ads,JP,Tier 2,Android,2.07
+fe559e4e,2025-11-16,Google Ads,AU,Tier 1,iOS,2.52
+a114b264,2025-11-24,Unity Ads,PH,Tier 3,Android,0.12
+d606b540,2025-10-08,Organic,VN,Tier 3,Android,0.0
+92cc090a,2025-10-19,Facebook Ads,BR,Tier 3,iOS,0.17
+f9e638ec,2025-11-10,Unity Ads,JP,Tier 2,iOS,2.23
+196deab8,2025-10-16,Unity Ads,PH,Tier 3,Android,0.22
+d054c323,2025-10-08,Organic,VN,Tier 3,Android,0.0
+f1c58fe7,2025-10-01,Facebook Ads,JP,Tier 2,iOS,1.69
+9a393bdd,2025-11-21,Facebook Ads,FR,Tier 2,Android,1.82
+c216562a,2025-10-30,Unity Ads,FR,Tier 2,Android,1.49
+65273df4,2025-11-18,Unity Ads,PH,Tier 3,iOS,0.36
+db18a5a4,2025-11-22,Google Ads,PH,Tier 3,Android,0.77
+faa6a16b,2025-11-22,Google Ads,UK,Tier 1,Android,4.26
+d9dad9de,2025-10-21,Facebook Ads,AU,Tier 1,iOS,4.23
+db04cdf7,2025-10-18,Organic,IN,Tier 3,Android,0.0
+d9f302fb,2025-11-11,Google Ads,KR,Tier 2,iOS,1.16
+c1772eed,2025-11-25,Unity Ads,UK,Tier 1,Android,4.42
+b79d36a7,2025-10-02,Unity Ads,FR,Tier 2,iOS,1.14
+83b2bb5d,2025-11-01,Facebook Ads,KR,Tier 2,Android,1.36
+6da19138,2025-10-27,Google Ads,IN,Tier 3,Android,0.12
+1aae4b5d,2025-10-02,Unity Ads,PH,Tier 3,iOS,0.57
+c811cbd6,2025-11-15,Organic,UK,Tier 1,iOS,0.0
+ddc57466,2025-11-12,Facebook Ads,VN,Tier 3,iOS,0.31
+f5a3fd4e,2025-10-15,Google Ads,UK,Tier 1,Android,3.91
+bf0e4276,2025-11-23,Organic,IN,Tier 3,Android,0.0
+9ee4c4ec,2025-11-24,Facebook Ads,JP,Tier 2,Android,2.21
+2fa5cb63,2025-11-11,Unity Ads,IN,Tier 3,iOS,0.65
+ee6b5b2d,2025-10-17,Google Ads,US,Tier 1,Android,4.53
+4bf17d23,2025-11-04,Unity Ads,FR,Tier 2,iOS,1.96
+659e61dc,2025-11-06,Google Ads,VN,Tier 3,iOS,0.65
+1e9b1bce,2025-10-17,Unity Ads,KR,Tier 2,Android,1.11
+ccf68a22,2025-11-12,Organic,FR,Tier 2,iOS,0.0
+40a2558c,2025-10-30,Facebook Ads,PH,Tier 3,Android,0.24
+9ec1d2d1,2025-10-21,Google Ads,IN,Tier 3,iOS,0.78
+8834ee2b,2025-10-06,Organic,IN,Tier 3,iOS,0.0
+e7aa025f,2025-11-02,Google Ads,VN,Tier 3,Android,0.53
+d46dd323,2025-11-17,Organic,BR,Tier 3,iOS,0.0
+d052b13c,2025-10-12,Google Ads,IN,Tier 3,Android,0.11
+faf42404,2025-10-10,Google Ads,CA,Tier 1,Android,4.24
+ee359d02,2025-10-01,Organic,VN,Tier 3,Android,0.0
+ef7ae564,2025-10-06,Facebook Ads,VN,Tier 3,iOS,0.42
+8b9b4d57,2025-11-09,Facebook Ads,DE,Tier 2,iOS,1.48
+907f7171,2025-10-28,Google Ads,PH,Tier 3,Android,0.73
+7fe6e820,2025-10-25,Google Ads,VN,Tier 3,Android,0.36
+c58457f8,2025-10-27,Facebook Ads,KR,Tier 2,iOS,1.88
+a6379800,2025-11-08,Unity Ads,DE,Tier 2,iOS,1.59
+d85aba92,2025-11-17,Organic,JP,Tier 2,Android,0.0
+a77a6ce7,2025-11-11,Unity Ads,CA,Tier 1,Android,2.84
+d9dfdd0b,2025-10-25,Google Ads,PH,Tier 3,Android,0.61
+8583f1bc,2025-10-07,Organic,PH,Tier 3,iOS,0.0
+beec4181,2025-10-17,Organic,PH,Tier 3,iOS,0.0
+ff931872,2025-10-09,Facebook Ads,VN,Tier 3,iOS,0.59
+d1b9b818,2025-10-08,Facebook Ads,PH,Tier 3,Android,0.19
+db66e3f7,2025-10-18,Unity Ads,JP,Tier 2,Android,1.38
+6c59958b,2025-11-09,Unity Ads,VN,Tier 3,Android,0.37
+7a12a1ed,2025-10-13,Facebook Ads,JP,Tier 2,iOS,2.34
+173383a6,2025-10-26,Organic,FR,Tier 2,iOS,0.0
+f007ecc0,2025-11-05,Unity Ads,BR,Tier 3,iOS,0.37
+4cacbd91,2025-10-02,Google Ads,VN,Tier 3,Android,0.59
+db6802c8,2025-10-17,Google Ads,KR,Tier 2,Android,1.57
+12af2da1,2025-11-16,Unity Ads,VN,Tier 3,iOS,0.35
+0e5de78e,2025-11-06,Google Ads,IN,Tier 3,iOS,0.19
+f8afe59b,2025-11-12,Organic,VN,Tier 3,iOS,0.0
+2b744524,2025-10-18,Facebook Ads,FR,Tier 2,Android,2.27
+43d68c35,2025-10-17,Google Ads,UK,Tier 1,Android,2.92
+04bafc86,2025-10-13,Organic,PH,Tier 3,Android,0.0
+3b8401e0,2025-10-28,Facebook Ads,FR,Tier 2,iOS,1.73
+dad3bb13,2025-10-15,Google Ads,UK,Tier 1,iOS,4.59
+97963247,2025-10-14,Organic,VN,Tier 3,iOS,0.0
+21697c26,2025-11-07,Google Ads,VN,Tier 3,iOS,0.48
+22c782a2,2025-11-10,Unity Ads,KR,Tier 2,iOS,1.56
+1d213afd,2025-11-22,Facebook Ads,PH,Tier 3,Android,0.51
+45b6a34a,2025-10-26,Organic,BR,Tier 3,Android,0.0
+7e5e0759,2025-11-05,Facebook Ads,IN,Tier 3,iOS,0.24
+264d9f1e,2025-10-31,Unity Ads,BR,Tier 3,iOS,0.6
+283a0065,2025-11-26,Unity Ads,BR,Tier 3,Android,0.39
+71905b61,2025-10-30,Google Ads,AU,Tier 1,Android,2.97
+88165870,2025-10-03,Google Ads,IN,Tier 3,iOS,0.65
+9d463987,2025-10-26,Google Ads,IN,Tier 3,iOS,0.65
+b2d6d6f7,2025-10-07,Facebook Ads,UK,Tier 1,Android,3.85
+6856127c,2025-10-13,Google Ads,BR,Tier 3,iOS,0.45
+fac04304,2025-11-27,Facebook Ads,CA,Tier 1,Android,4.21
+42aa9191,2025-10-11,Organic,IN,Tier 3,iOS,0.0
+db3fa72e,2025-11-17,Google Ads,DE,Tier 2,iOS,1.5
+4963bd0c,2025-10-10,Google Ads,IN,Tier 3,iOS,0.23
+5d146c2e,2025-10-08,Organic,IN,Tier 3,Android,0.0
+a778d471,2025-11-06,Google Ads,FR,Tier 2,Android,1.56
+c14da97a,2025-10-03,Facebook Ads,PH,Tier 3,Android,0.48
+a46db58e,2025-10-04,Unity Ads,IN,Tier 3,iOS,0.69
+2a46681d,2025-10-31,Organic,JP,Tier 2,iOS,0.0
+dfdec833,2025-10-11,Organic,IN,Tier 3,iOS,0.0
+125c0bcc,2025-11-03,Facebook Ads,US,Tier 1,iOS,3.68
+af3f8728,2025-11-24,Facebook Ads,US,Tier 1,Android,3.74
+9dae5a70,2025-10-01,Unity Ads,VN,Tier 3,iOS,0.73
+a2869d45,2025-11-02,Facebook Ads,BR,Tier 3,Android,0.7
+e18b6bda,2025-10-06,Google Ads,KR,Tier 2,iOS,1.8
+3ac158c6,2025-10-06,Google Ads,KR,Tier 2,Android,1.45
+f5963d3d,2025-10-31,Facebook Ads,PH,Tier 3,iOS,0.4
+ab3dae9d,2025-10-20,Unity Ads,IN,Tier 3,iOS,0.27
+29f53fd9,2025-10-08,Facebook Ads,KR,Tier 2,iOS,2.18
+c5929ef5,2025-11-17,Facebook Ads,UK,Tier 1,Android,2.78
+19119033,2025-10-07,Google Ads,KR,Tier 2,Android,1.71
+faec5923,2025-11-10,Organic,DE,Tier 2,iOS,0.0
+ae6b3225,2025-10-04,Google Ads,FR,Tier 2,iOS,1.55
+d583dd22,2025-10-06,Unity Ads,FR,Tier 2,iOS,1.25
+771ca663,2025-10-15,Google Ads,DE,Tier 2,iOS,1.3
+0325f2a4,2025-10-19,Google Ads,IN,Tier 3,iOS,0.16
+bb005ede,2025-10-08,Unity Ads,PH,Tier 3,Android,0.79
+71def576,2025-11-25,Unity Ads,PH,Tier 3,iOS,0.62
+0e0073a5,2025-11-24,Organic,DE,Tier 2,Android,0.0
+3b4b2537,2025-11-23,Unity Ads,KR,Tier 2,Android,2.08
+7cd764b3,2025-10-22,Unity Ads,VN,Tier 3,iOS,0.66
+fe738420,2025-10-25,Unity Ads,BR,Tier 3,iOS,0.43
+89a3c4b3,2025-10-12,Organic,IN,Tier 3,iOS,0.0
+0f26bdce,2025-10-17,Google Ads,PH,Tier 3,iOS,0.69
+c633c742,2025-11-27,Unity Ads,US,Tier 1,iOS,4.62
+f12254a1,2025-11-15,Google Ads,DE,Tier 2,Android,1.76
+c4ba9ab7,2025-11-15,Facebook Ads,IN,Tier 3,iOS,0.15
+bbf28edd,2025-11-03,Google Ads,AU,Tier 1,Android,4.7
+315ac2da,2025-11-19,Facebook Ads,JP,Tier 2,Android,1.11
+d548cfd3,2025-10-03,Unity Ads,KR,Tier 2,Android,2.35
+01440b26,2025-11-25,Organic,UK,Tier 1,Android,0.0
+bc729d34,2025-11-10,Google Ads,DE,Tier 2,iOS,1.28
+ebbdcc94,2025-10-02,Google Ads,PH,Tier 3,Android,0.21
+c39543ae,2025-11-16,Google Ads,JP,Tier 2,iOS,1.14
+d1e6f5ae,2025-10-29,Google Ads,IN,Tier 3,Android,0.36
+e1409ed0,2025-11-04,Google Ads,PH,Tier 3,iOS,0.17
+9c9b2371,2025-11-24,Facebook Ads,FR,Tier 2,iOS,1.22
+ebbc4861,2025-11-08,Organic,AU,Tier 1,Android,0.0
+b59d67e6,2025-11-17,Google Ads,IN,Tier 3,Android,0.42
+19d4c740,2025-10-02,Google Ads,IN,Tier 3,Android,0.41
+62322982,2025-10-01,Unity Ads,VN,Tier 3,iOS,0.49
+d45a0b56,2025-11-10,Unity Ads,FR,Tier 2,iOS,1.88
+9697753d,2025-10-30,Facebook Ads,UK,Tier 1,iOS,4.91
+116195ca,2025-11-14,Google Ads,AU,Tier 1,iOS,4.16
+4716bf37,2025-11-06,Organic,PH,Tier 3,iOS,0.0
+ff96aaba,2025-11-27,Unity Ads,US,Tier 1,iOS,4.55
+de022c0f,2025-11-13,Facebook Ads,JP,Tier 2,iOS,1.47
+bb58ed93,2025-10-25,Organic,IN,Tier 3,Android,0.0
+874ab1d6,2025-11-01,Facebook Ads,KR,Tier 2,Android,1.7
+2e110e3b,2025-10-10,Google Ads,BR,Tier 3,Android,0.22
+5a8e84e5,2025-11-01,Organic,JP,Tier 2,Android,0.0
+de9ff005,2025-11-17,Google Ads,BR,Tier 3,Android,0.58
+91b82458,2025-11-07,Facebook Ads,US,Tier 1,Android,3.75
+f8f74ec0,2025-10-27,Facebook Ads,KR,Tier 2,iOS,1.1
+7f787294,2025-10-04,Google Ads,DE,Tier 2,iOS,1.2
+4fe158eb,2025-10-29,Organic,DE,Tier 2,iOS,0.0
+ebf56c05,2025-11-03,Organic,CA,Tier 1,iOS,0.0
+dea2a0b1,2025-11-20,Organic,BR,Tier 3,Android,0.0
+adb7cf35,2025-10-05,Unity Ads,DE,Tier 2,iOS,1.61
+4f3f0189,2025-11-03,Google Ads,UK,Tier 1,Android,3.33
+d4a633b8,2025-11-29,Google Ads,CA,Tier 1,iOS,4.7
+fe3dcf8e,2025-10-14,Unity Ads,DE,Tier 2,Android,1.58
+06ee2699,2025-11-05,Facebook Ads,PH,Tier 3,iOS,0.37
+1e898ea4,2025-11-24,Facebook Ads,PH,Tier 3,iOS,0.4
+4d951b92,2025-11-28,Facebook Ads,BR,Tier 3,Android,0.78
+f8804855,2025-11-26,Unity Ads,IN,Tier 3,Android,0.54
+93f10676,2025-10-22,Facebook Ads,CA,Tier 1,iOS,3.19
+4cf2bdad,2025-11-11,Organic,PH,Tier 3,Android,0.0
+35da7f8e,2025-11-10,Unity Ads,BR,Tier 3,Android,0.5
+e3180cc9,2025-11-16,Organic,PH,Tier 3,Android,0.0
+9a908db5,2025-11-09,Facebook Ads,FR,Tier 2,iOS,2.41
+7ab03198,2025-10-11,Google Ads,UK,Tier 1,iOS,4.72
+421092b8,2025-10-17,Google Ads,JP,Tier 2,iOS,1.29
+c163130b,2025-11-08,Facebook Ads,US,Tier 1,iOS,3.93
+b710157d,2025-11-07,Organic,VN,Tier 3,iOS,0.0
+ee075322,2025-11-29,Organic,VN,Tier 3,Android,0.0
+02b59205,2025-10-30,Organic,VN,Tier 3,iOS,0.0
+5ff1d703,2025-11-05,Google Ads,VN,Tier 3,iOS,0.49
+d7294114,2025-10-18,Facebook Ads,KR,Tier 2,iOS,1.77
+78b16c63,2025-10-25,Google Ads,PH,Tier 3,iOS,0.48
+e95eece8,2025-10-03,Unity Ads,US,Tier 1,iOS,4.75
+085bd4a8,2025-10-25,Facebook Ads,US,Tier 1,Android,3.29
+83c1d0a0,2025-11-25,Unity Ads,VN,Tier 3,iOS,0.76
+b17db37c,2025-11-08,Organic,JP,Tier 2,iOS,0.0
+24dee5a1,2025-11-01,Facebook Ads,BR,Tier 3,iOS,0.31
+91e52d3c,2025-11-05,Facebook Ads,DE,Tier 2,iOS,1.22
+ff226db6,2025-10-22,Facebook Ads,BR,Tier 3,Android,0.23
+6c663ae0,2025-11-17,Organic,UK,Tier 1,iOS,0.0
+ca00386a,2025-10-23,Facebook Ads,AU,Tier 1,iOS,3.69
+a2ee1e69,2025-11-07,Facebook Ads,PH,Tier 3,Android,0.42
+2007ec49,2025-10-06,Organic,JP,Tier 2,iOS,0.0
+415b10a3,2025-11-03,Organic,PH,Tier 3,Android,0.0
+a366aae6,2025-10-17,Unity Ads,BR,Tier 3,Android,0.67
+4310d476,2025-11-06,Organic,US,Tier 1,iOS,0.0
+2ca73dda,2025-10-10,Google Ads,IN,Tier 3,Android,0.75
+63d2a8c1,2025-10-23,Facebook Ads,IN,Tier 3,iOS,0.21
+64c4bb8d,2025-10-18,Unity Ads,IN,Tier 3,Android,0.54
+f1fe2043,2025-10-21,Facebook Ads,AU,Tier 1,iOS,3.37
+7e2421dc,2025-11-29,Google Ads,KR,Tier 2,iOS,2.19
+083547d6,2025-11-26,Unity Ads,KR,Tier 2,Android,2.33
+2b20e168,2025-10-10,Organic,CA,Tier 1,iOS,0.0
+f63a1c5a,2025-11-14,Google Ads,DE,Tier 2,Android,1.22
+aff3e368,2025-10-02,Unity Ads,BR,Tier 3,Android,0.48
+424e5484,2025-10-01,Facebook Ads,VN,Tier 3,iOS,0.17
+8e462a67,2025-11-28,Google Ads,VN,Tier 3,iOS,0.27
+e7552650,2025-11-23,Google Ads,PH,Tier 3,iOS,0.15
+68f7e5f4,2025-11-04,Unity Ads,JP,Tier 2,iOS,2.14
+708444a9,2025-11-07,Unity Ads,US,Tier 1,Android,2.75
+5f3386ab,2025-10-03,Unity Ads,VN,Tier 3,iOS,0.43
+ced9650d,2025-11-21,Organic,AU,Tier 1,iOS,0.0
+13d38987,2025-11-18,Facebook Ads,FR,Tier 2,Android,2.46
+04c4118e,2025-10-05,Unity Ads,JP,Tier 2,Android,1.76
+dc9d32d7,2025-10-23,Unity Ads,BR,Tier 3,Android,0.39
+7d061e76,2025-10-14,Organic,BR,Tier 3,Android,0.0
+75ee3ee4,2025-11-02,Organic,AU,Tier 1,iOS,0.0
+e0e59ade,2025-11-10,Unity Ads,IN,Tier 3,iOS,0.72
+f8041545,2025-11-19,Facebook Ads,KR,Tier 2,iOS,1.12
+b44ff06a,2025-11-02,Facebook Ads,JP,Tier 2,Android,2.06
+87225d5a,2025-10-14,Facebook Ads,CA,Tier 1,Android,2.66
+8a13fd57,2025-11-06,Organic,PH,Tier 3,iOS,0.0
+42ba7bc3,2025-10-08,Organic,VN,Tier 3,iOS,0.0
+483c574d,2025-10-30,Facebook Ads,DE,Tier 2,iOS,1.22
+3faf3c6f,2025-11-08,Facebook Ads,UK,Tier 1,Android,4.25
+76277b07,2025-11-08,Organic,JP,Tier 2,Android,0.0
+a2014c89,2025-11-22,Facebook Ads,BR,Tier 3,iOS,0.61
+7455b869,2025-10-24,Facebook Ads,AU,Tier 1,iOS,4.61
+ea49648e,2025-10-15,Google Ads,IN,Tier 3,Android,0.19
+1ab04110,2025-11-28,Google Ads,FR,Tier 2,iOS,1.01
+61637801,2025-10-30,Organic,FR,Tier 2,iOS,0.0
+47e4e43a,2025-10-11,Organic,UK,Tier 1,Android,0.0
+bf84ca59,2025-11-22,Unity Ads,PH,Tier 3,iOS,0.46
+a0991ae8,2025-11-15,Organic,DE,Tier 2,Android,0.0
+b5f82249,2025-11-26,Unity Ads,US,Tier 1,Android,3.87
+a2e61fb5,2025-10-30,Facebook Ads,DE,Tier 2,iOS,1.58
+38c45558,2025-10-15,Google Ads,UK,Tier 1,iOS,2.61
+51dc3d13,2025-10-31,Facebook Ads,CA,Tier 1,Android,4.96
+67a7e567,2025-11-20,Google Ads,PH,Tier 3,Android,0.6
+a58b68b0,2025-11-14,Facebook Ads,KR,Tier 2,Android,2.09
+251e7763,2025-10-31,Unity Ads,PH,Tier 3,Android,0.11
+fc928f5a,2025-11-21,Facebook Ads,BR,Tier 3,Android,0.17
+f3e00e35,2025-10-22,Facebook Ads,JP,Tier 2,Android,1.31
+802b9571,2025-10-09,Unity Ads,KR,Tier 2,Android,1.21
+71884611,2025-10-24,Organic,KR,Tier 2,Android,0.0
+0f9c21ad,2025-11-15,Facebook Ads,VN,Tier 3,Android,0.28
+5059f432,2025-11-07,Unity Ads,DE,Tier 2,Android,1.97
+5bf883da,2025-10-20,Unity Ads,JP,Tier 2,Android,1.07
+ca43e46b,2025-11-04,Unity Ads,CA,Tier 1,iOS,3.69
+957066e5,2025-10-12,Facebook Ads,VN,Tier 3,Android,0.41
+7b6c7977,2025-11-17,Facebook Ads,FR,Tier 2,Android,1.23
+f7ed74b4,2025-10-16,Organic,IN,Tier 3,Android,0.0
+9ecae007,2025-10-05,Unity Ads,IN,Tier 3,iOS,0.21
+b178e86b,2025-11-20,Organic,IN,Tier 3,iOS,0.0
+d5d8dc25,2025-11-27,Google Ads,PH,Tier 3,iOS,0.16
+546795f7,2025-11-06,Organic,US,Tier 1,Android,0.0
+2dca9c1f,2025-10-23,Organic,BR,Tier 3,iOS,0.0
+a5e74764,2025-11-19,Google Ads,VN,Tier 3,iOS,0.73
+52fc99d2,2025-11-20,Unity Ads,UK,Tier 1,iOS,4.42
+de8fb68f,2025-10-28,Facebook Ads,PH,Tier 3,Android,0.78
+82e0ae3e,2025-11-14,Organic,IN,Tier 3,Android,0.0
+03cc6e65,2025-10-28,Unity Ads,UK,Tier 1,iOS,3.88
+5371124b,2025-11-20,Organic,VN,Tier 3,iOS,0.0
+cba8db15,2025-10-17,Google Ads,BR,Tier 3,Android,0.21
+664b992d,2025-11-27,Google Ads,AU,Tier 1,iOS,2.83
+cde309cc,2025-10-27,Unity Ads,JP,Tier 2,iOS,2.13
+db1eaa8c,2025-11-08,Organic,PH,Tier 3,Android,0.0
+bdea44a6,2025-10-18,Unity Ads,US,Tier 1,iOS,3.23
+a2f48aef,2025-10-30,Facebook Ads,IN,Tier 3,Android,0.49
+a4fcbd33,2025-10-23,Facebook Ads,JP,Tier 2,Android,2.42
+b4d61b2d,2025-11-29,Unity Ads,AU,Tier 1,Android,3.97
+da8c8919,2025-11-02,Unity Ads,AU,Tier 1,iOS,4.05
+9350c4ff,2025-10-06,Unity Ads,KR,Tier 2,iOS,1.65
+6f6a3128,2025-10-14,Unity Ads,VN,Tier 3,iOS,0.55
+2692039d,2025-11-10,Facebook Ads,VN,Tier 3,Android,0.61
+698108ca,2025-11-18,Facebook Ads,KR,Tier 2,Android,2.36
+57c9efb6,2025-10-31,Unity Ads,VN,Tier 3,iOS,0.77
+9f3f7694,2025-11-09,Organic,FR,Tier 2,Android,0.0
+094e021e,2025-11-12,Facebook Ads,JP,Tier 2,iOS,1.76
+7f8e7ce8,2025-10-16,Unity Ads,DE,Tier 2,Android,2.33
+51299e9b,2025-10-08,Google Ads,BR,Tier 3,Android,0.41
+78d4f0d8,2025-10-06,Unity Ads,BR,Tier 3,iOS,0.73
+7b4e619d,2025-10-04,Organic,KR,Tier 2,Android,0.0
+4cf0c254,2025-11-25,Google Ads,VN,Tier 3,iOS,0.51
+8df1c5c9,2025-10-22,Unity Ads,BR,Tier 3,Android,0.79
+d424d32e,2025-10-26,Facebook Ads,PH,Tier 3,iOS,0.16
+a39bcd3f,2025-10-28,Facebook Ads,PH,Tier 3,Android,0.25
+ee5510b1,2025-11-07,Facebook Ads,CA,Tier 1,iOS,4.88
+504adacc,2025-11-18,Facebook Ads,KR,Tier 2,Android,2.48
+7c67a887,2025-10-12,Google Ads,FR,Tier 2,Android,2.49
+9c090a5e,2025-10-23,Facebook Ads,PH,Tier 3,iOS,0.51
+1fb67322,2025-10-02,Organic,VN,Tier 3,iOS,0.0
+4ea253d1,2025-11-29,Organic,KR,Tier 2,iOS,0.0
+56bcf899,2025-11-09,Organic,DE,Tier 2,Android,0.0
+c226e23d,2025-10-09,Organic,JP,Tier 2,iOS,0.0
+847407a4,2025-10-20,Facebook Ads,BR,Tier 3,Android,0.36
+cb59b268,2025-10-16,Google Ads,BR,Tier 3,iOS,0.7
+7a12f304,2025-11-20,Organic,IN,Tier 3,Android,0.0
+2dce3730,2025-10-09,Facebook Ads,PH,Tier 3,Android,0.32
+db53f4d9,2025-10-24,Unity Ads,UK,Tier 1,Android,4.21
+32d476d2,2025-11-09,Facebook Ads,VN,Tier 3,iOS,0.19
+42aca1f2,2025-11-21,Google Ads,VN,Tier 3,iOS,0.16
+6ae130e5,2025-11-09,Facebook Ads,DE,Tier 2,iOS,1.77
+26d657a6,2025-11-09,Organic,VN,Tier 3,iOS,0.0
+4f2e3055,2025-10-14,Organic,IN,Tier 3,Android,0.0
+61ded30d,2025-11-01,Organic,AU,Tier 1,iOS,0.0
+2fd38efe,2025-11-01,Unity Ads,PH,Tier 3,Android,0.27
+2820afa4,2025-11-09,Organic,JP,Tier 2,iOS,0.0
+026f07a3,2025-11-13,Google Ads,IN,Tier 3,iOS,0.44
+137437fc,2025-11-24,Unity Ads,KR,Tier 2,iOS,1.56
+b8b08f27,2025-10-30,Unity Ads,IN,Tier 3,Android,0.62
+1a6b977f,2025-10-23,Google Ads,VN,Tier 3,Android,0.29
+618d421f,2025-11-12,Facebook Ads,KR,Tier 2,iOS,1.48
+3009b85b,2025-10-27,Unity Ads,PH,Tier 3,iOS,0.52
+e1861303,2025-10-05,Unity Ads,PH,Tier 3,Android,0.72
+10289412,2025-10-05,Google Ads,KR,Tier 2,iOS,1.04
+ac70bfc4,2025-10-07,Organic,KR,Tier 2,Android,0.0
+08aaefd8,2025-10-02,Organic,IN,Tier 3,Android,0.0
+1d69d901,2025-11-10,Unity Ads,BR,Tier 3,iOS,0.51
+c1d0ac8b,2025-11-05,Facebook Ads,FR,Tier 2,Android,2.29
+aecc654f,2025-11-19,Facebook Ads,DE,Tier 2,iOS,1.24
+79bc2e17,2025-10-12,Google Ads,IN,Tier 3,iOS,0.34
+a6ea80cd,2025-11-22,Facebook Ads,UK,Tier 1,Android,3.62
+67045c8f,2025-10-18,Facebook Ads,FR,Tier 2,Android,2.06
+542dc4c5,2025-11-19,Unity Ads,KR,Tier 2,iOS,1.26
+42bc363e,2025-11-16,Unity Ads,IN,Tier 3,Android,0.24
+5528d3a7,2025-11-09,Organic,US,Tier 1,Android,0.0
+51a45f14,2025-11-25,Unity Ads,IN,Tier 3,iOS,0.22
+3104ebe1,2025-10-31,Unity Ads,AU,Tier 1,iOS,3.87
+604018fa,2025-10-29,Unity Ads,KR,Tier 2,iOS,2.32
+bb61d069,2025-10-22,Organic,BR,Tier 3,iOS,0.0
+62a527e6,2025-10-03,Facebook Ads,IN,Tier 3,iOS,0.18
+5814616b,2025-10-10,Facebook Ads,BR,Tier 3,Android,0.43
+e3e99b8a,2025-11-01,Organic,IN,Tier 3,iOS,0.0
+fce3385a,2025-11-27,Organic,PH,Tier 3,Android,0.0
+28faa18b,2025-11-23,Organic,UK,Tier 1,Android,0.0
+04e39f25,2025-11-12,Organic,VN,Tier 3,iOS,0.0
+d6706824,2025-10-27,Google Ads,IN,Tier 3,iOS,0.77
+7729f37b,2025-10-13,Unity Ads,IN,Tier 3,Android,0.12
+8ed0f03f,2025-11-07,Organic,BR,Tier 3,Android,0.0
+37f26a1b,2025-11-13,Google Ads,VN,Tier 3,iOS,0.48
+7da4e73d,2025-11-25,Google Ads,US,Tier 1,Android,3.39
+90d446af,2025-10-01,Google Ads,AU,Tier 1,iOS,2.79
+25d246e8,2025-10-20,Unity Ads,VN,Tier 3,Android,0.54
+a3fb0b64,2025-10-17,Google Ads,VN,Tier 3,Android,0.27
+85712f9d,2025-10-07,Unity Ads,PH,Tier 3,iOS,0.51
+827454db,2025-11-19,Unity Ads,BR,Tier 3,Android,0.65
+9721b4f8,2025-11-08,Unity Ads,VN,Tier 3,Android,0.61
+43afc243,2025-11-01,Google Ads,FR,Tier 2,Android,1.1
+79e9d4a4,2025-10-16,Organic,JP,Tier 2,Android,0.0
+539487a0,2025-10-16,Facebook Ads,PH,Tier 3,Android,0.15
+410e4e18,2025-10-04,Organic,AU,Tier 1,iOS,0.0
+5fd2596a,2025-10-22,Unity Ads,IN,Tier 3,Android,0.38
+108e46fc,2025-11-15,Organic,FR,Tier 2,iOS,0.0
+5e0a743d,2025-10-10,Organic,CA,Tier 1,iOS,0.0
+2ef51c60,2025-10-04,Unity Ads,AU,Tier 1,Android,3.84
+0158d8e9,2025-11-24,Unity Ads,KR,Tier 2,iOS,1.44
+ea79017d,2025-10-11,Facebook Ads,PH,Tier 3,iOS,0.14
+10ef4ec6,2025-11-04,Google Ads,IN,Tier 3,iOS,0.22
+e96f3c53,2025-10-19,Unity Ads,BR,Tier 3,Android,0.72
+dfe81426,2025-10-30,Unity Ads,US,Tier 1,iOS,4.62
+c7473cf6,2025-11-09,Google Ads,DE,Tier 2,Android,2.46
+5bd8acef,2025-10-29,Google Ads,FR,Tier 2,Android,2.07
+3833f3c8,2025-11-26,Facebook Ads,CA,Tier 1,Android,4.37
+b1489208,2025-11-11,Unity Ads,PH,Tier 3,iOS,0.24
+6fcb3279,2025-11-29,Organic,KR,Tier 2,iOS,0.0
+bf7ee2da,2025-11-22,Facebook Ads,DE,Tier 2,Android,1.03
+c4862334,2025-10-07,Google Ads,IN,Tier 3,Android,0.62
+2c63133a,2025-10-10,Facebook Ads,US,Tier 1,Android,4.0
+42104ce2,2025-11-27,Facebook Ads,US,Tier 1,Android,4.68
+9a8978e5,2025-10-14,Facebook Ads,PH,Tier 3,Android,0.31
+be451bba,2025-11-04,Organic,BR,Tier 3,iOS,0.0
+a4c98494,2025-11-15,Unity Ads,BR,Tier 3,Android,0.32
+a4c466de,2025-11-02,Unity Ads,IN,Tier 3,iOS,0.42
+b53d4780,2025-11-19,Organic,PH,Tier 3,iOS,0.0
+b66a4ae5,2025-10-07,Organic,UK,Tier 1,Android,0.0
+b08c68db,2025-10-13,Google Ads,DE,Tier 2,iOS,2.26
+b2af6ffa,2025-10-07,Facebook Ads,VN,Tier 3,Android,0.75
+f32d8338,2025-10-14,Unity Ads,KR,Tier 2,iOS,1.35
+9cf351a4,2025-10-10,Organic,IN,Tier 3,iOS,0.0
+bb85404c,2025-10-08,Facebook Ads,IN,Tier 3,iOS,0.69
+8681aeae,2025-11-29,Facebook Ads,AU,Tier 1,iOS,3.26
+7b3d70db,2025-11-05,Organic,PH,Tier 3,Android,0.0
+fdcfb71c,2025-10-17,Organic,PH,Tier 3,iOS,0.0
+4f2ba9ab,2025-10-17,Facebook Ads,VN,Tier 3,iOS,0.58
+6eab7b51,2025-10-11,Google Ads,PH,Tier 3,iOS,0.49
+dd468ab8,2025-11-21,Google Ads,UK,Tier 1,Android,4.95
+82eceba8,2025-10-06,Google Ads,KR,Tier 2,Android,1.61
+68af3e08,2025-10-20,Organic,AU,Tier 1,Android,0.0
+058f7bc5,2025-10-25,Google Ads,DE,Tier 2,Android,1.93
+25f22472,2025-11-17,Facebook Ads,DE,Tier 2,Android,1.53
+e6184598,2025-10-17,Facebook Ads,AU,Tier 1,Android,4.04
+4d7af9e6,2025-11-06,Organic,UK,Tier 1,iOS,0.0
+b3e685e4,2025-11-07,Facebook Ads,IN,Tier 3,iOS,0.17
+7f7d2add,2025-11-11,Facebook Ads,BR,Tier 3,Android,0.7
+3282e2d0,2025-10-04,Unity Ads,VN,Tier 3,Android,0.28
+5ba6b872,2025-10-29,Facebook Ads,VN,Tier 3,Android,0.71
+a3acf0c2,2025-11-02,Google Ads,CA,Tier 1,iOS,3.13
+a45a8695,2025-10-13,Google Ads,JP,Tier 2,Android,1.35
+0a1d559e,2025-10-25,Google Ads,DE,Tier 2,iOS,1.99
+8e6a5d84,2025-10-05,Organic,PH,Tier 3,iOS,0.0
+9d14747d,2025-10-25,Organic,DE,Tier 2,iOS,0.0
+2b97ef34,2025-10-17,Google Ads,DE,Tier 2,Android,2.25
+eb653090,2025-10-11,Unity Ads,DE,Tier 2,Android,1.95
+b4e7cbad,2025-10-10,Organic,FR,Tier 2,iOS,0.0
+92991a4f,2025-11-28,Facebook Ads,DE,Tier 2,Android,1.21
+f61cbf62,2025-10-17,Google Ads,BR,Tier 3,iOS,0.66
+46bbb87c,2025-11-02,Organic,VN,Tier 3,iOS,0.0
+8988dcaf,2025-11-06,Facebook Ads,PH,Tier 3,iOS,0.55
+63af145b,2025-11-20,Google Ads,DE,Tier 2,Android,2.48
+c45e5bc3,2025-11-12,Google Ads,JP,Tier 2,Android,1.16
+1e04b0f5,2025-11-03,Unity Ads,PH,Tier 3,Android,0.32
+300baced,2025-11-29,Organic,BR,Tier 3,iOS,0.0
+a2c918af,2025-10-21,Unity Ads,JP,Tier 2,Android,1.9
+afc1caf9,2025-11-22,Google Ads,BR,Tier 3,iOS,0.43
+57675384,2025-11-08,Facebook Ads,FR,Tier 2,Android,2.42
+03e6d5f5,2025-11-18,Facebook Ads,UK,Tier 1,Android,3.19
+1a51aefd,2025-11-17,Facebook Ads,DE,Tier 2,Android,1.42
+30e0920f,2025-11-08,Unity Ads,US,Tier 1,Android,4.96
+81363ca1,2025-11-28,Google Ads,DE,Tier 2,Android,1.96
+491dddd4,2025-11-11,Google Ads,AU,Tier 1,Android,4.67
+b898ab65,2025-11-01,Unity Ads,PH,Tier 3,iOS,0.67
+b9e662de,2025-11-03,Organic,DE,Tier 2,Android,0.0
+0988b20f,2025-11-11,Google Ads,US,Tier 1,iOS,2.62
+fe0ebaad,2025-11-04,Organic,BR,Tier 3,Android,0.0
+e69e8e8a,2025-11-22,Unity Ads,PH,Tier 3,Android,0.27
+866210c8,2025-11-25,Google Ads,VN,Tier 3,Android,0.79
+553c169b,2025-10-13,Unity Ads,UK,Tier 1,Android,3.34
+796af0ca,2025-11-29,Organic,US,Tier 1,Android,0.0
+a4b29f43,2025-11-18,Organic,BR,Tier 3,Android,0.0
+2dd8ff2d,2025-10-28,Google Ads,FR,Tier 2,iOS,1.56
+8b51d04f,2025-11-24,Organic,DE,Tier 2,Android,0.0
+610ce0bf,2025-10-18,Facebook Ads,DE,Tier 2,Android,2.36
+3bdc1701,2025-11-27,Facebook Ads,US,Tier 1,iOS,3.84
+2a4aaba8,2025-10-26,Organic,BR,Tier 3,Android,0.0
+ae49c594,2025-11-01,Facebook Ads,BR,Tier 3,iOS,0.19
+b158b0cc,2025-10-23,Organic,AU,Tier 1,Android,0.0
+d00208ec,2025-10-08,Google Ads,VN,Tier 3,Android,0.43
+79e75696,2025-10-21,Google Ads,US,Tier 1,Android,3.65
+aeaf183a,2025-11-16,Facebook Ads,DE,Tier 2,iOS,2.03
+57866f5b,2025-11-03,Organic,CA,Tier 1,Android,0.0
+7aa6ac46,2025-11-20,Unity Ads,VN,Tier 3,Android,0.28
+cf952f2b,2025-11-25,Facebook Ads,PH,Tier 3,iOS,0.48
+5965b77e,2025-10-21,Facebook Ads,PH,Tier 3,Android,0.62
+bbfa5d19,2025-11-26,Google Ads,BR,Tier 3,iOS,0.3
+bb11961c,2025-11-08,Unity Ads,VN,Tier 3,Android,0.21
+e47a788c,2025-11-04,Organic,BR,Tier 3,Android,0.0
+26de0abc,2025-10-07,Unity Ads,AU,Tier 1,Android,2.69
+6c9b363f,2025-10-31,Organic,AU,Tier 1,Android,0.0
+cc7dfd44,2025-11-15,Google Ads,BR,Tier 3,iOS,0.5
+cd5fc7c5,2025-11-26,Organic,BR,Tier 3,iOS,0.0
+a6e97eec,2025-10-28,Facebook Ads,BR,Tier 3,Android,0.51
+7639e293,2025-10-07,Google Ads,DE,Tier 2,Android,1.39
+54c5cced,2025-11-07,Unity Ads,VN,Tier 3,iOS,0.63
+c219fbd7,2025-11-23,Organic,VN,Tier 3,Android,0.0
+31fe944d,2025-10-20,Organic,PH,Tier 3,Android,0.0
+bcacd75f,2025-10-28,Facebook Ads,AU,Tier 1,iOS,4.63
+ce3a9c9a,2025-11-28,Unity Ads,DE,Tier 2,iOS,1.27
+264f9777,2025-11-02,Facebook Ads,IN,Tier 3,Android,0.17
+74e588ca,2025-10-17,Facebook Ads,JP,Tier 2,Android,1.1
+5888307b,2025-10-31,Organic,FR,Tier 2,iOS,0.0
+bd62d9c6,2025-10-03,Organic,JP,Tier 2,iOS,0.0
+818ae3d2,2025-11-01,Unity Ads,JP,Tier 2,Android,2.04
+45d70a69,2025-11-10,Organic,PH,Tier 3,Android,0.0
+c4544039,2025-10-10,Organic,CA,Tier 1,iOS,0.0
+d69e5ac4,2025-10-12,Facebook Ads,JP,Tier 2,iOS,2.1
+d81c1a7d,2025-11-08,Organic,DE,Tier 2,iOS,0.0
+aed4a161,2025-11-19,Unity Ads,JP,Tier 2,Android,1.23
+956ae221,2025-10-08,Unity Ads,UK,Tier 1,Android,3.12
+cc73c848,2025-11-25,Organic,VN,Tier 3,iOS,0.0
+13fff340,2025-11-02,Organic,PH,Tier 3,iOS,0.0
+fa0f999f,2025-10-23,Facebook Ads,DE,Tier 2,iOS,1.08
+54cf05b8,2025-11-15,Organic,IN,Tier 3,iOS,0.0
+5e99cfee,2025-11-17,Google Ads,KR,Tier 2,iOS,1.41
+5735def9,2025-10-23,Unity Ads,IN,Tier 3,Android,0.22
+6ee35223,2025-11-15,Google Ads,DE,Tier 2,Android,1.92
+2ec48223,2025-11-24,Facebook Ads,FR,Tier 2,iOS,1.7
+8e064ff7,2025-11-04,Facebook Ads,IN,Tier 3,iOS,0.75
+310ec2ea,2025-10-17,Organic,BR,Tier 3,Android,0.0
+bc9a7672,2025-10-19,Google Ads,IN,Tier 3,iOS,0.54
+1d9911ca,2025-10-20,Organic,VN,Tier 3,iOS,0.0
